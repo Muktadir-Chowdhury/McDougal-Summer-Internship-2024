@@ -1,0 +1,1470 @@
+{
+    "237555": {
+        "File with most characters": {
+            "schaffercollateral.py": 47.62
+        },
+        "File with most comments": {
+            "corticostriatal.py": 47.62
+        }
+    },
+    "184176": {
+        "Mod Files": {
+            "CaDynamics.mod": 33.33,
+            "Ca_HVA.mod": 35.29,
+            "Ca_LVA.mod": 37.5,
+            "Ih.mod": 44.44,
+            "Im.mod": 36.36,
+            "Im_v2.mod": 66.67,
+            "Kd.mod": 44.44,
+            "Kv2like.mod": 72.73,
+            "Kv3_1.mod": 33.33,
+            "K_P.mod": 35.71,
+            "K_T.mod": 70.0,
+            "Nap.mod": 50.0,
+            "NaTa.mod": 58.33,
+            "NaTs.mod": 58.33,
+            "NaV.mod": 57.89,
+            "SK.mod": 33.33
+        },
+        "File with most characters": {
+            "NaV.mod": 46.15
+        }
+    },
+    "181967": {
+        "Mosinit Files": {
+            "GC.hoc": 38.89,
+            "MC.hoc": 33.33,
+            "BasketCell.hoc": 39.29,
+            "HC.hoc": 37.5,
+            "CA3PC.hoc": 17.31,
+            "CA3BC.hoc": 42.42,
+            "CA3AAC.hoc": 52.17,
+            "CA3OLM.hoc": 42.86,
+            "CA1PC.hoc": 18.18,
+            "CA1AAC.hoc": 38.24,
+            "CA1BC.hoc": 38.24,
+            "CA1BSC.hoc": 31.03,
+            "CA1OLM.hoc": 37.5,
+            "stim_cell.hoc": 16.67,
+            "burst_cell.hoc": 75.0,
+            "ranstream.hoc": 50.0,
+            "network.hoc": 34.88,
+            "rig.hoc": 41.67,
+            "gui.ses": 32.0
+        },
+        "Mod Files": {
+            "ANsyn.mod": 75.0,
+            "bgka.mod": 40.0,
+            "borgkm.mod": 37.5,
+            "burststim.mod": 50.0,
+            "cacumm.mod": 37.5,
+            "cad.mod": 33.33,
+            "cadiv.mod": 44.44,
+            "cagk.mod": 57.14,
+            "cagk2.mod": 37.5,
+            "cagk3.mod": 42.86,
+            "cal.mod": 26.67,
+            "cal1.mod": 54.55,
+            "cal2.mod": 38.46,
+            "calH.mod": 31.25,
+            "can2.mod": 57.14,
+            "can3.mod": 27.78,
+            "car.mod": 54.55,
+            "cat.mod": 50.0,
+            "cat2.mod": 61.54,
+            "cat3.mod": 47.06,
+            "ccanl.mod": 37.5,
+            "distr.mod": 75.0,
+            "gskch.mod": 55.56,
+            "h.mod": 73.33,
+            "h2.mod": 38.1,
+            "hha2.mod": 22.73,
+            "hha_old.mod": 90.0,
+            "hNa.mod": 30.0,
+            "hyperde3.mod": 62.5,
+            "IA.mod": 50.0,
+            "ichan2.mod": 20.0,
+            "Ih.mod": 47.06,
+            "kad.mod": 50.0,
+            "kahp.mod": 62.5,
+            "KahpM95.mod": 16.67,
+            "kap.mod": 53.85,
+            "kaprox.mod": 40.0,
+            "Kaxon.mod": 50.0,
+            "kca.mod": 45.45,
+            "kd.mod": 40.0,
+            "Kdend.mod": 42.86,
+            "kdr.mod": 57.14,
+            "kdrca1.mod": 60.0,
+            "km.mod": 41.67,
+            "km2.mod": 75.0,
+            "Ksoma.mod": 55.56,
+            "LcaMig.mod": 70.0,
+            "my_exp2syn.mod": 35.71,
+            "na3n.mod": 41.18,
+            "Naaxon.mod": 41.67,
+            "Nadend.mod": 22.22,
+            "nahh.mod": 40.91,
+            "Nasoma.mod": 10.0,
+            "naxn.mod": 28.57,
+            "nca.mod": 100.0,
+            "nmda.mod": 20.0,
+            "regn_stim.mod": 50.0,
+            "somacar.mod": 33.33
+        },
+        "File with most characters": {
+            "network.hoc": 45.45
+        },
+        "File with most comments": {
+            "cacumm.mod": 42.86
+        }
+    },
+    "249706": {
+        "File with most characters": {
+            "run_suppfig5a.py": 25.93
+        },
+        "File with most comments": {
+            "run_fig2.py": 35.71
+        }
+    },
+    "245018": {
+        "File with most characters": {
+            "seq_neuromod_plasticity.m": 30.0
+        },
+        "File with most comments": {
+            "seq_neuromod_plasticity.m": 38.1
+        }
+    },
+    "154288": {
+        "File with most characters": {
+            "GutigSompolinsky2009.py": 17.39
+        },
+        "File with most comments": {
+            "GutigSompolinsky2009.py": 14.29
+        }
+    },
+    "154732": {
+        "Mosinit Files": {
+            "run_PC.hoc": 37.5
+        },
+        "Mod Files": {
+            "burststim2.mod": 36.36,
+            "cad.mod": 62.5,
+            "cagk.mod": 50.0,
+            "carF.mod": 28.57,
+            "distca.mod": 57.14,
+            "distr.mod": 40.0,
+            "h.mod": 71.43,
+            "kadist.mod": 28.57,
+            "kaprox.mod": 40.0,
+            "kca.mod": 28.57,
+            "kdrca1.mod": 31.25,
+            "km.mod": 50.0,
+            "na3n.mod": 37.5,
+            "naxn.mod": 31.25,
+            "nmdaca.mod": 66.67
+        },
+        "File with most characters": {
+            "Mig_geo5038804.hoc": 14.29
+        },
+        "File with most comments": {
+            "distr.mod": 75.0
+        }
+    },
+    "117691": {
+        "File with most characters": {
+            "DS_especial.cfg": 20.0
+        }
+    },
+    "168591": {
+        "Mod Files": {
+            "ampanmda.mod": 55.0,
+            "distrt.mod": 33.33,
+            "fi.mod": 47.62,
+            "fi_stdp.mod": 40.0,
+            "kamt.mod": 72.73,
+            "kdrmt.mod": 77.78,
+            "naxn.mod": 58.33,
+            "ThreshDetect.mod": 100.0
+        },
+        "File with most characters": {
+            "mayasyn.py": 40.0
+        },
+        "File with most comments": {
+            "grow.py": 55.56
+        }
+    },
+    "119283": {
+        "Mosinit Files": {
+            "Fig.4E.hoc": 29.73
+        },
+        "Mod Files": {
+            "distr.mod": 40.0,
+            "h.mod": 69.23,
+            "kadist.mod": 29.41,
+            "kaprox.mod": 40.0,
+            "kdrca1.mod": 37.5,
+            "na3n.mod": 50.0,
+            "naxn.mod": 22.73,
+            "netstimm.mod": 25.0
+        },
+        "File with most characters": {
+            "n128su.hoc": 28.57
+        },
+        "File with most comments": {
+            "Fig.4E.hoc": 32.26
+        }
+    },
+    "144490": {
+        "Mosinit Files": {
+            "bpap-gui.hoc": 30.77
+        },
+        "Mod Files": {
+            "ampa_forti.mod": 64.29,
+            "cacum.mod": 37.5,
+            "cad.mod": 50.0,
+            "cagk.mod": 80.0,
+            "cal.mod": 31.58,
+            "calH.mod": 40.0,
+            "car.mod": 26.32,
+            "car_mag.mod": 46.15,
+            "cat.mod": 25.0,
+            "d3.mod": 40.0,
+            "h.mod": 18.18,
+            "hha2.mod": 43.75,
+            "hha_old.mod": 37.5,
+            "kadist.mod": 33.33,
+            "kaprox.mod": 50.0,
+            "kca.mod": 36.36,
+            "km.mod": 40.0,
+            "nap.mod": 50.0,
+            "nmda_andr.mod": 53.33,
+            "somacar.mod": 36.84,
+            "gabaa.mod": 61.54,
+            "gabab.mod": 41.18,
+            "glutamate.mod": 35.29,
+            "nmda.mod": 29.41
+        },
+        "File with most characters": {
+            "old20100419cell1_topadj.hoc": 60.0
+        },
+        "File with most comments": {
+            "NmdaAmpaSynStim.hoc": 62.5
+        }
+    },
+    "140881": {
+        "Mosinit Files": {
+            "stdgui.hoc": 13.33,
+            "setup.hoc": 100.0,
+            "nrnoc.hoc": 18.75,
+            "init.hoc": 16.67,
+            "nqsnet.hoc": 40.74,
+            "network.hoc": 13.1,
+            "params.hoc": 46.43,
+            "run.hoc": 5.92,
+            "gload.hoc": 27.27
+        },
+        "Mod Files": {
+            "intf6_.mod": 25.81,
+            "misc.mod": 42.86,
+            "nstim.mod": 27.27,
+            "stats.mod": 12.5,
+            "vecst.mod": 16.67
+        },
+        "File with most characters": {
+            "nqs.hoc": 25.0
+        },
+        "File with most comments": {
+            "mosinit.hoc": 37.5
+        }
+    },
+    "114654": {
+        "File with most characters": {
+            "purkinje_bignet21.f": 25.86
+        },
+        "File with most comments": {
+            "purkinje_bignet21.f": 44.44
+        }
+    },
+    "137743": {
+        "File with most characters": {
+            "mhconmatvalues20100928_octave.m": 33.33
+        },
+        "File with most comments": {
+            "mhconmatvalues20100928_octave.m": 29.41
+        }
+    },
+    "184168": {
+        "Mod Files": {
+            "CaDynamics.mod": 60.0,
+            "Ca_HVA.mod": 57.14,
+            "Ca_LVA.mod": 47.06,
+            "Ih.mod": 28.57,
+            "Im.mod": 35.71,
+            "Im_v2.mod": 23.53,
+            "Kd.mod": 27.27,
+            "Kv2like.mod": 63.64,
+            "Kv3_1.mod": 71.43,
+            "K_P.mod": 50.0,
+            "K_T.mod": 58.33,
+            "Nap.mod": 26.67,
+            "NaTa.mod": 50.0,
+            "NaTs.mod": 53.33,
+            "NaV.mod": 64.71,
+            "SK.mod": 27.27
+        },
+        "File with most characters": {
+            "NaV.mod": 61.11
+        }
+    },
+    "141270": {
+        "File with most characters": {
+            "ltd_updated.py": 35.0
+        },
+        "File with most comments": {
+            "ltd_updated.py": 30.43
+        }
+    },
+    "2730": {
+        "Mosinit Files": {
+            "init.hoc": 42.86
+        },
+        "Mod Files": {
+            "cadecay.mod": 57.14,
+            "flushf.mod": 33.33,
+            "kA.mod": 45.45,
+            "kca.mod": 50.0,
+            "kfasttab.mod": 26.67,
+            "kM.mod": 19.05,
+            "kslowtab.mod": 30.0,
+            "lcafixed.mod": 23.53,
+            "nafast.mod": 40.0,
+            "nagran.mod": 50.0,
+            "nmdanet.mod": 25.0
+        },
+        "File with most characters": {
+            "odour_baseline.connect": 18.42
+        },
+        "File with most comments": {
+            "cadecay.mod": 62.5
+        }
+    },
+    "206365": {
+        "File with most characters": {
+            "bursting_duration.mat": 16.13
+        },
+        "File with most comments": {
+            "K.m": 20.0
+        }
+    },
+    "53893": {
+        "Files starting with Fig": {
+            "fig3.hoc": 30.77
+        },
+        "Mod Files": {
+            "lva.mod": 50.0
+        },
+        "File with most characters": {
+            "fig3.hoc": 46.15
+        },
+        "File with most comments": {
+            "fig3.hoc": 54.55
+        }
+    },
+    "147117": {
+        "File with most characters": {
+            "runhh.m": 29.73
+        },
+        "File with most comments": {
+            "runhh.m": 50.0
+        }
+    },
+    "119214": {
+        "File with most characters": {
+            "victor.css": 0.0
+        }
+    },
+    "267566": {
+        "File with most characters": {
+            "JP_22.m": 34.78
+        },
+        "File with most comments": {
+            "JP_22.m": 38.89
+        }
+    },
+    "184545": {
+        "File with most characters": {
+            "OLM_cell.py": 33.33
+        },
+        "File with most comments": {
+            "OLM_cell.py": 45.45
+        }
+    },
+    "62266": {
+        "Mosinit Files": {
+            "cylinder.hoc": 28.57
+        },
+        "Mod Files": {
+            "B_A.mod": 41.18,
+            "B_DR.mod": 77.78,
+            "B_NA.mod": 33.33
+        },
+        "File with most characters": {
+            "B_NA.mod": 33.33
+        },
+        "File with most comments": {
+            "B_A.mod": 60.0
+        }
+    },
+    "266498": {
+        "Mod Files": {
+            "caext.mod": 27.27,
+            "caextscale.mod": 30.77,
+            "caint.mod": 50.0,
+            "CaIntraCellDyn.mod": 58.33,
+            "caintscale.mod": 75.0,
+            "cal.mod": 38.46,
+            "can.mod": 50.0,
+            "CaPump.mod": 42.86,
+            "cat.mod": 50.0,
+            "DNav18.mod": 25.0,
+            "extrapump.mod": 40.0,
+            "fpump.mod": 62.5,
+            "h.mod": 26.09,
+            "im.mod": 36.36,
+            "ka.mod": 36.36,
+            "KCa.mod": 30.77,
+            "kd.mod": 36.36,
+            "kdr.mod": 26.67,
+            "kdr_Tiger.mod": 66.67,
+            "kds.mod": 50.0,
+            "kext.mod": 21.43,
+            "kexternal.mod": 37.5,
+            "kf.mod": 42.86,
+            "kna.mod": 50.0,
+            "ks.mod": 42.86,
+            "k_ion_dynamics.mod": 37.5,
+            "leak.mod": 62.5,
+            "leakSchild.mod": 18.18,
+            "NaCaPump.mod": 80.0,
+            "NaCX.mod": 44.44,
+            "nadifl.mod": 6.25,
+            "naext.mod": 27.27,
+            "naf.mod": 36.36,
+            "naf97.mod": 27.78,
+            "naf97mean.mod": 57.14,
+            "nahh.mod": 35.0,
+            "Nakpump.mod": 44.44,
+            "NakpumpSchild.mod": 80.0,
+            "nas.mod": 30.77,
+            "nas97.mod": 37.5,
+            "nas97mean.mod": 20.0,
+            "nattxs.mod": 25.0,
+            "nav1p9.mod": 50.0,
+            "na_ion_dynamics.mod": 50.0,
+            "RattayAberham.mod": 50.0,
+            "kca.mod": 40.0,
+            "acaextVclamp.mod": 37.5,
+            "acaintVclamp.mod": 66.67,
+            "acanVclamp.mod": 8.33,
+            "aCaPumpVclamp.mod": 36.36,
+            "acatVclamp.mod": 36.36,
+            "akaVclamp.mod": 33.33,
+            "akcaVclamp.mod": 66.67,
+            "akdsVclamp.mod": 44.44,
+            "akdVclamp.mod": 33.33,
+            "aleakVclamp.mod": 36.36,
+            "aNaCaPumpVclamp.mod": 20.0,
+            "anafVclamp.mod": 20.0,
+            "aNakpumpVclamp.mod": 33.33,
+            "anasVclamp.mod": 31.25
+        },
+        "File with most characters": {
+            "Schild_1994_A-C-Fiber_Model.hoc": 25.0
+        },
+        "File with most comments": {
+            "caextscale.mod": 28.57
+        }
+    },
+    "126899": {
+        "File with most characters": {
+            "Rothman_Manis_2003.py": 66.67
+        },
+        "File with most comments": {
+            "Rothman_Manis_2003.py": 52.17
+        }
+    },
+    "150225": {
+        "File with most characters": {
+            "CerebellumIODCNAbstractFext.mdl": 26.47
+        },
+        "File with most comments": {
+            "LaunchCerebellumSimulink.m": 31.03
+        }
+    },
+    "116981": {
+        "Mosinit Files": {
+            "init.hoc": 28.57
+        },
+        "Mod Files": {
+            "gpulse.mod": 9.09
+        },
+        "File with most characters": {
+            "init.hoc": 31.58
+        },
+        "File with most comments": {
+            "gpulse.mod": 7.69
+        }
+    },
+    "126465": {
+        "File with most characters": {
+            "all_pairs_model.py": 27.78
+        },
+        "File with most comments": {
+            "all_pairs_model.py": 33.33
+        }
+    },
+    "37819": {
+        "Mosinit Files": {
+            "batch_.hoc": 16.67
+        },
+        "Mod Files": {
+            "AMPA.mod": 22.22,
+            "burst.mod": 36.36,
+            "ca.mod": 26.67,
+            "cad.mod": 42.86,
+            "cadecay.mod": 37.5,
+            "GABAA.mod": 40.0,
+            "gabab.mod": 50.0,
+            "GABAB2.mod": 100.0,
+            "gababS.mod": 33.33,
+            "HH2.mod": 31.25,
+            "Iahp.mod": 57.14,
+            "Ican.mod": 66.67,
+            "Ih.mod": 70.59,
+            "intf.mod": 16.67,
+            "IT.mod": 35.29,
+            "IT2.mod": 50.0,
+            "kca.mod": 26.67,
+            "kdr.mod": 26.67,
+            "kl.mod": 42.86,
+            "kleak.mod": 42.86,
+            "km.mod": 40.0,
+            "kmbg.mod": 25.0,
+            "kv.mod": 40.0,
+            "matrix.mod": 14.29,
+            "na.mod": 45.0,
+            "naf.mod": 42.86,
+            "nap.mod": 66.67,
+            "NMDA.mod": 57.14,
+            "nstim.mod": 37.5,
+            "ntia.mod": 50.0,
+            "tcifb.mod": 23.08,
+            "tia.mod": 46.67,
+            "vecst.mod": 14.29
+        },
+        "File with most characters": {
+            "batch_.hoc": 20.0
+        },
+        "File with most comments": {
+            "AMPA.mod": 57.14
+        }
+    },
+    "127995": {
+        "Mosinit Files": {
+            "start.hoc": 46.43
+        },
+        "Mod Files": {
+            "ampanmda.mod": 56.25,
+            "fi.mod": 38.89,
+            "kamt.mod": 35.71,
+            "kdrmt.mod": 41.67,
+            "naxn.mod": 28.0,
+            "ThreshDetect.mod": 42.86
+        },
+        "File with most characters": {
+            "show.hoc": 57.89
+        },
+        "File with most comments": {
+            "perfrun.hoc": 36.36
+        }
+    },
+    "98902": {
+        "File with most characters": {
+            "netclustwacnmdadiff.c": 32.0
+        },
+        "File with most comments": {
+            "mkpar.c": 28.57
+        }
+    },
+    "266868": {
+        "File with most characters": {
+            "analytical_fixed_point.m": 25.0
+        },
+        "File with most comments": {
+            "main_BTSP_model_simulations.m": 45.45
+        }
+    },
+    "20014": {
+        "Mosinit Files": {
+            "Fig2_A_D.hoc": 20.0,
+            "Fig2_E_H.hoc": 20.83,
+            "Fig3_A.hoc": 18.75,
+            "Fig3_B_D.hoc": 18.75,
+            "Fig3_C.hoc": 10.53
+        },
+        "Mod Files": {
+            "hh1.mod": 53.33,
+            "PasD.mod": 10.53,
+            "PasS.mod": 15.79,
+            "PasSA.mod": 21.43
+        },
+        "File with most characters": {
+            "mosinit.hoc": 9.09
+        },
+        "File with most comments": {
+            "Fig2_E_H.hoc": 8.7
+        }
+    },
+    "155057": {
+        "Mosinit Files": {
+            "init.hoc": 22.22
+        },
+        "Mod Files": {
+            "ampa.mod": 27.27,
+            "ampain.mod": 42.86,
+            "cadyn.mod": 35.71,
+            "cal.mod": 66.67,
+            "can.mod": 23.53,
+            "car.mod": 18.18,
+            "cat.mod": 28.57,
+            "gabaa.mod": 33.33,
+            "gabaain.mod": 69.23,
+            "gabab.mod": 35.29,
+            "h.mod": 40.0,
+            "ican.mod": 66.67,
+            "iks.mod": 60.0,
+            "kadist.mod": 46.15,
+            "kca.mod": 38.46,
+            "kct.mod": 50.0,
+            "kdr.mod": 44.44,
+            "naf.mod": 31.25,
+            "nap.mod": 13.89,
+            "netstim.mod": 44.44,
+            "NMDA.mod": 37.5,
+            "NMDA_syn.mod": 40.0,
+            "sinclamp.mod": 50.0,
+            "vecstim.mod": 33.33
+        },
+        "File with most characters": {
+            "importBackgroundStimParams.hoc": 16.0
+        },
+        "File with most comments": {
+            "validation.hoc": 28.57
+        }
+    },
+    "189946": {
+        "File with most characters": {
+            "OriginalModel.m": 33.33
+        },
+        "File with most comments": {
+            "OriginalModel.m": 18.75
+        }
+    },
+    "144010": {
+        "File with most characters": {
+            "ML_depress_sim.m": 36.84
+        },
+        "File with most comments": {
+            "ML_depress_sim.m": 26.67
+        }
+    },
+    "260740": {
+        "File with most characters": {
+            "OrientationMapsJi.mat": 4.17
+        },
+        "File with most comments": {
+            "OrientationMapsJi.mat": 37.5
+        }
+    },
+    "151282": {
+        "Mod Files": {
+            "CA3ih.mod": 50.0,
+            "CA3ika.mod": 53.85,
+            "CA3ikdr.mod": 42.86,
+            "CA3ina.mod": 61.54,
+            "caolmw.mod": 42.86,
+            "HCN1.mod": 38.46,
+            "icaolmw.mod": 50.0,
+            "iholmw.mod": 21.05,
+            "ihstatic.mod": 40.0,
+            "kcaolmw.mod": 37.5,
+            "kdrbwb.mod": 20.0,
+            "misc.mod": 25.0,
+            "MyExp2SynBB.mod": 38.46,
+            "MyExp2SynNMDABB.mod": 40.0,
+            "nafbwb.mod": 20.83,
+            "stats.mod": 22.22,
+            "vecst.mod": 66.67
+        },
+        "File with most characters": {
+            "nqs.hoc": 10.0
+        },
+        "File with most comments": {
+            "grvec.hoc": 9.52
+        }
+    },
+    "3677": {
+        "Mosinit Files": {
+            "ri18run.hoc": 18.18,
+            "ri21run.hoc": 34.78,
+            "ri22run.hoc": 46.15
+        },
+        "Mod Files": {
+            "iqq.mod": 57.14,
+            "synampa.mod": 71.43
+        },
+        "File with most characters": {
+            "ri21geo2.hoc": 15.38
+        },
+        "File with most comments": {
+            "ri22func.hoc": 26.67
+        }
+    },
+    "226422": {
+        "Mod Files": {
+            "MAT_model.mod": 45.45
+        },
+        "File with most characters": {
+            "MAT_Neuron_StepCurrent.py": 22.22
+        },
+        "File with most comments": {
+            "MAT_Neuron_StepCurrent.py": 35.29
+        }
+    },
+    "57905": {
+        "File with most characters": {
+            "sn.c": 15.91
+        },
+        "File with most comments": {
+            "nr.c": 23.08
+        }
+    },
+    "148644": {
+        "Mosinit Files": {
+            "Fig4C.hoc": 26.67
+        },
+        "Mod Files": {
+            "distr.mod": 16.67,
+            "h.mod": 52.63,
+            "kadist.mod": 23.53,
+            "kaprox.mod": 40.0,
+            "kdrca1.mod": 47.06,
+            "na3n.mod": 42.86,
+            "naxn.mod": 46.15,
+            "netstims.mod": 44.44
+        },
+        "File with most characters": {
+            "geo5038804.hoc": 20.0
+        },
+        "File with most comments": {
+            "Fig4C.hoc": 44.44
+        }
+    },
+    "83562": {
+        "File with most characters": {
+            "extendedbg_current.mdl": 21.43
+        },
+        "File with most comments": {
+            "extended_model_ZOH.m": 48.48
+        }
+    },
+    "235052": {
+        "Mod Files": {
+            "afKDR.mod": 25.0,
+            "asKDR.mod": 44.44,
+            "DGCaT.mod": 38.89,
+            "migNa.mod": 40.0
+        },
+        "File with most characters": {
+            "Fig2.hoc": 47.37
+        },
+        "File with most comments": {
+            "Fig2.hoc": 16.28
+        }
+    },
+    "2017006": {
+        "Mod Files": {
+            "kf_a_schild94.mod": 40.0,
+            "kf_d_schild94.mod": 36.36,
+            "ks.mod": 33.33,
+            "ms_v2_GHK_lamda.mod": 25.0,
+            "nakpump_rasmusson2004.mod": 40.0,
+            "nak_difl.mod": 17.65,
+            "nav1p6_raman03.mod": 50.0,
+            "nav1p7_wax11.mod": 41.67,
+            "nav1p8_baker05.mod": 50.0,
+            "nav1p9_baker05.mod": 57.14,
+            "pas_BF.mod": 22.22
+        },
+        "File with most characters": {
+            "nav1p6_raman03.mod": 55.56
+        }
+    },
+    "136773": {
+        "File with most characters": {
+            "Cressman_et_al_JCNS_1_fullmodel_RK4.c": 23.08
+        },
+        "File with most comments": {
+            "Cressman_et_al_JCNS_1_reducedmodel.ode": 15.0
+        }
+    },
+    "37129": {
+        "File with most characters": {
+            "controlpath.c": 16.67
+        },
+        "File with most comments": {
+            "controlpath.c": 27.78
+        }
+    },
+    "2014996": {
+        "File with most characters": {
+            "kf_s2.ode": 34.48
+        },
+        "File with most comments": {
+            "kf_s1.ode": 30.3
+        }
+    },
+    "228604": {
+        "File with most characters": {
+            "gracePlot.py": 50.0
+        },
+        "File with most comments": {
+            "grace_np.py": 33.33
+        }
+    },
+    "184196": {
+        "Mod Files": {
+            "CaDynamics.mod": 33.33,
+            "Ca_HVA.mod": 45.45,
+            "Ca_LVA.mod": 47.37,
+            "Ih.mod": 42.11,
+            "Im.mod": 13.04,
+            "Im_v2.mod": 28.57,
+            "Kd.mod": 33.33,
+            "Kv2like.mod": 54.55,
+            "Kv3_1.mod": 44.44,
+            "K_P.mod": 37.5,
+            "K_T.mod": 38.46,
+            "Nap.mod": 33.33,
+            "NaTa.mod": 40.0,
+            "NaTs.mod": 47.06,
+            "NaV.mod": 58.33,
+            "SK.mod": 44.44
+        },
+        "File with most characters": {
+            "NaV.mod": 76.92
+        }
+    },
+    "206310": {
+        "File with most characters": {
+            "BehniaData.mat": 4.17
+        },
+        "File with most comments": {
+            "DtSweeps.m": 15.0
+        }
+    },
+    "184344": {
+        "Mod Files": {
+            "CaDynamics.mod": 33.33,
+            "Ca_HVA.mod": 35.29,
+            "Ca_LVA.mod": 43.75,
+            "Ih.mod": 58.82,
+            "Im.mod": 19.05,
+            "Im_v2.mod": 21.43,
+            "Kd.mod": 28.57,
+            "Kv2like.mod": 60.0,
+            "Kv3_1.mod": 83.33,
+            "K_P.mod": 46.67,
+            "K_T.mod": 40.0,
+            "Nap.mod": 27.27,
+            "NaTa.mod": 33.33,
+            "NaTs.mod": 29.41,
+            "NaV.mod": 46.15,
+            "SK.mod": 30.0
+        },
+        "File with most characters": {
+            "NaV.mod": 36.84
+        }
+    },
+    "150288": {
+        "Mod Files": {
+            "bg2inter.mod": 35.29,
+            "bg2pyr.mod": 66.67,
+            "ca.mod": 28.57,
+            "cadyn.mod": 33.33,
+            "cal2.mod": 60.0,
+            "capool.mod": 28.57,
+            "function_TMonitor.mod": 20.0,
+            "h.mod": 55.56,
+            "im.mod": 66.67,
+            "interD2pyrDDANE_STFD.mod": 37.5,
+            "interD2pyrDDA_STFD.mod": 25.0,
+            "interD2pyrDNE_STFD.mod": 28.57,
+            "interD2pyrD_STFD.mod": 30.43,
+            "interD2pyrVDA_STFD.mod": 25.0,
+            "interD2pyrV_STFD.mod": 27.27,
+            "interV2pyrDDANE_STFD.mod": 43.48,
+            "interV2pyrDDA_STFD.mod": 26.09,
+            "interV2pyrDNE_STFD.mod": 38.1,
+            "interV2pyrD_STFD.mod": 68.75,
+            "interV2pyrVDA_STFD.mod": 22.58,
+            "interV2pyrV_STFD.mod": 38.89,
+            "kadist.mod": 20.0,
+            "kaprox.mod": 41.18,
+            "kdrca1.mod": 37.5,
+            "kdrca1DA.mod": 56.25,
+            "kdrinter.mod": 20.0,
+            "leak.mod": 37.5,
+            "leakDA.mod": 31.25,
+            "leakinter.mod": 80.0,
+            "na3.mod": 30.77,
+            "na3DA.mod": 50.0,
+            "nainter.mod": 24.0,
+            "pyrD2interD_STFD.mod": 36.36,
+            "pyrD2interV_STFD.mod": 31.25,
+            "pyrD2pyrDDA_STFD.mod": 33.33,
+            "pyrD2pyrD_STFD.mod": 36.84,
+            "pyrD2pyrVDA_STFD.mod": 34.78,
+            "pyrD2pyrV_STFD.mod": 38.89,
+            "pyrV2interD_STFD.mod": 52.17,
+            "pyrV2interV_STFD.mod": 50.0,
+            "pyrV2pyrDDA_STFD.mod": 39.13,
+            "pyrV2pyrD_STFD.mod": 93.33,
+            "pyrV2pyrVDA_STFD.mod": 28.0,
+            "pyrV2pyrV_STFD.mod": 30.43,
+            "sahp.mod": 23.53,
+            "sahpNE.mod": 23.08,
+            "shock2interD.mod": 33.33,
+            "shock2interV.mod": 33.33,
+            "shock2pyrD.mod": 50.0,
+            "shock2pyrV.mod": 41.18,
+            "tone2interD.mod": 50.0,
+            "tone2interDNE.mod": 27.27,
+            "tone2interV.mod": 50.0,
+            "tone2interVNE.mod": 25.0,
+            "tone2pyrD.mod": 41.18,
+            "tone2pyrDNE.mod": 75.0,
+            "tone2pyrDNE_LAdv.mod": 35.29,
+            "tone2pyrD_LAdv.mod": 43.75,
+            "tone2pyrV.mod": 52.94,
+            "tone2pyrVNE.mod": 38.1,
+            "tone2pyrVNE_LAdd.mod": 43.75,
+            "tone2pyrV_LAdd.mod": 56.25
+        },
+        "File with most characters": {
+            "LAcells_template.hoc": 32.0
+        },
+        "File with most comments": {
+            "function_NetStimOR.hoc": 16.67
+        }
+    },
+    "267047": {
+        "File with most characters": {
+            "2_neurons.ode": 17.78
+        },
+        "File with most comments": {
+            "2_neurons.ode": 24.32
+        }
+    },
+    "2014816": {
+        "Mod Files": {
+            "cacumm.mod": 66.67,
+            "cagk.mod": 40.0,
+            "cal2.mod": 37.5,
+            "can2.mod": 50.0,
+            "cat.mod": 37.5,
+            "h_clk_new.mod": 66.67,
+            "kadist.mod": 46.15,
+            "kaprox.mod": 46.15,
+            "kca.mod": 44.44,
+            "kdb.mod": 30.0,
+            "kdbm.mod": 28.57,
+            "kdrbca1.mod": 66.67,
+            "kdrca1.mod": 60.0,
+            "kmb.mod": 75.0,
+            "na3n.mod": 43.75,
+            "naxn.mod": 31.82
+        },
+        "File with most characters": {
+            "cell_seed_150218A2.hoc": 23.68
+        },
+        "File with most comments": {
+            "cacumm.mod": 50.0
+        }
+    },
+    "155727": {
+        "File with most characters": {
+            "rotation_movie.mp4": 0.0
+        },
+        "File with most comments": {
+            "sim_vs_net.py": 24.0
+        }
+    },
+    "184339": {
+        "Mod Files": {
+            "CaDynamics.mod": 100.0,
+            "Ca_HVA.mod": 29.41,
+            "Ca_LVA.mod": 58.33,
+            "Ih.mod": 44.44,
+            "Im.mod": 23.53,
+            "Im_v2.mod": 44.44,
+            "Kd.mod": 44.44,
+            "Kv2like.mod": 66.67,
+            "Kv3_1.mod": 55.56,
+            "K_P.mod": 53.85,
+            "K_T.mod": 50.0,
+            "Nap.mod": 17.24,
+            "NaTa.mod": 33.33,
+            "NaTs.mod": 27.27,
+            "NaV.mod": 33.33,
+            "SK.mod": 36.36
+        },
+        "File with most characters": {
+            "NaV.mod": 31.82
+        }
+    },
+    "228337": {
+        "File with most characters": {
+            "FigS5B.ode": 33.33
+        },
+        "File with most comments": {
+            "Fig3B.ode": 37.04
+        }
+    },
+    "239039": {
+        "Files starting with Fig": {
+            "fig3a.ode": 15.79,
+            "fig3b.ode": 29.17,
+            "fig3c.ode": 14.29,
+            "fig3d.ode": 5.0
+        },
+        "File with most characters": {
+            "fig3b.ode": 14.81
+        },
+        "File with most comments": {
+            "fig3d.ode": 13.04
+        }
+    },
+    "144403": {
+        "File with most characters": {
+            "tst.msg": 0.0
+        }
+    },
+    "118554": {
+        "File with most characters": {
+            "coh_stoch_mod.m": 41.67
+        },
+        "File with most comments": {
+            "coh_stoch_mod.m": 31.82
+        }
+    },
+    "167694": {
+        "Files starting with Fig": {
+            "figures2_S5.py": 10.71,
+            "figure2.py": 26.67,
+            "figure4.py": 58.33,
+            "figureS5.py": 60.0
+        },
+        "Mod Files": {
+            "double_synapse.mod": 33.33,
+            "hh3k.mod": 40.0,
+            "hh3na.mod": 55.56,
+            "nmda_dsyn.mod": 23.81,
+            "syn_placeholder.mod": 66.67
+        },
+        "File with most characters": {
+            "newj4line.hoc": 11.43
+        },
+        "File with most comments": {
+            "basal_project.hoc": 21.62
+        }
+    },
+    "245879": {
+        "File with most characters": {
+            "Sollini.m": 33.33
+        },
+        "File with most comments": {
+            "Sollini.m": 46.15
+        }
+    },
+    "266823": {
+        "Mod Files": {
+            "cldif_CA3_NKCC1_HCO3.mod": 42.86,
+            "gabaA_Cl_HCO3.mod": 29.41,
+            "vecevent.mod": 30.0,
+            "SynExp2NMDA.mod": 56.25,
+            "borgka.mod": 22.22,
+            "borgkm.mod": 50.0,
+            "cadiv.mod": 33.33,
+            "cagk.mod": 50.0,
+            "cal2.mod": 50.0,
+            "can2.mod": 41.67,
+            "cat.mod": 61.54,
+            "kahp.mod": 50.0,
+            "kdr.mod": 50.0,
+            "nahh.mod": 15.79,
+            "tonic.mod": 58.33
+        },
+        "File with most characters": {
+            "Cell1_Cl_HCO3_tonicGABA.hoc": 37.5
+        },
+        "File with most comments": {
+            "vecevent.mod": 17.65
+        }
+    },
+    "152292": {
+        "File with most characters": {
+            "OneCellTwoOsc.ode.setsdb": 18.75
+        },
+        "File with most comments": {
+            "OneCellTwoOsc.ode": 62.5
+        }
+    },
+    "126098": {
+        "File with most characters": {
+            "Loop4_analysis.cps": 75.0
+        }
+    },
+    "258235": {
+        "File with most characters": {
+            "Ina_3HH_Vclamp_SVetal.m": 36.36
+        },
+        "File with most comments": {
+            "Ina_3HH_Vclamp_SVetal.m": 40.0
+        }
+    },
+    "184325": {
+        "Mod Files": {
+            "CaDynamics.mod": 50.0,
+            "Ca_HVA.mod": 38.89,
+            "Ca_LVA.mod": 46.15,
+            "Ih.mod": 44.44,
+            "Im.mod": 31.25,
+            "Im_v2.mod": 66.67,
+            "Kd.mod": 20.0,
+            "Kv2like.mod": 60.0,
+            "Kv3_1.mod": 50.0,
+            "K_P.mod": 41.67,
+            "K_T.mod": 45.45,
+            "Nap.mod": 40.0,
+            "NaTa.mod": 18.18,
+            "NaTs.mod": 26.32,
+            "NaV.mod": 57.14,
+            "SK.mod": 18.75
+        },
+        "File with most characters": {
+            "NaV.mod": 61.11
+        }
+    },
+    "234118": {
+        "File with most characters": {
+            "LGN_SNN_IZKcurrexp_SpiNNaker.py": 50.0
+        },
+        "File with most comments": {
+            "LGN_SNN_IZKcurrexp_SpiNNaker.py": 45.0
+        }
+    },
+    "146949": {
+        "Mod Files": {
+            "infot.mod": 13.33,
+            "intf6.mod": 40.91,
+            "intfsw.mod": 30.0,
+            "matrix.mod": 14.29,
+            "misc.mod": 42.86,
+            "nstim.mod": 18.18,
+            "staley.mod": 18.18,
+            "stats.mod": 40.0,
+            "vecst.mod": 7.14
+        },
+        "File with most characters": {
+            "intf6.mod": 24.39
+        },
+        "File with most comments": {
+            "misc.mod": 25.0
+        }
+    },
+    "267048": {
+        "File with most characters": {
+            "compare_morph_sims.py": 16.0
+        },
+        "File with most comments": {
+            "compare_morph_sims.py": 45.83
+        }
+    },
+    "150031": {
+        "Files starting with Fig": {
+            "fig_spike_maps.py": 7.41
+        },
+        "File with most characters": {
+            "rat_trajectory_lowpass.mat": 3.7
+        },
+        "File with most comments": {
+            "default_params.py": 30.77
+        }
+    },
+    "3807": {
+        "Mosinit Files": {
+            "pcell.hoc": 27.78,
+            "volt_space.ses": 42.86
+        },
+        "Mod Files": {
+            "caacum.mod": 60.0,
+            "cachlech.mod": 50.0,
+            "capump.mod": 37.5,
+            "gkca.mod": 60.0,
+            "naacum.mod": 57.14,
+            "napump.mod": 71.43,
+            "pcell.mod": 64.29
+        },
+        "File with most characters": {
+            "pcell.hoc": 24.0
+        },
+        "File with most comments": {
+            "cachlech.mod": 44.44
+        }
+    },
+    "118261": {
+        "File with most characters": {
+            "L_visual.m": 21.43
+        },
+        "File with most comments": {
+            "L_SC.m": 23.08
+        }
+    },
+    "181962": {
+        "File with most characters": {
+            "sigh_model_code.py": 31.03
+        },
+        "File with most comments": {
+            "sigh_model_code.py": 52.63
+        }
+    },
+    "33728": {
+        "Mosinit Files": {
+            "ring.hoc": 22.22
+        },
+        "File with most characters": {
+            "ring.hoc": 33.33
+        },
+        "File with most comments": {
+            "mosinit.hoc": 14.29
+        }
+    },
+    "156470": {
+        "File with most characters": {
+            "manifold.m": 46.15
+        },
+        "File with most comments": {
+            "manifold.m": 30.77
+        }
+    },
+    "266864": {
+        "Files starting with Fig": {
+            "fig1.hoc": 26.19,
+            "fig2.hoc": 26.32,
+            "fig3.hoc": 27.59,
+            "fig5.hoc": 33.96,
+            "fig6.hoc": 33.33,
+            "fig7.hoc": 29.69,
+            "fig8.hoc": 25.45
+        },
+        "Mod Files": {
+            "BK_Slow.mod": 50.0,
+            "CaP.mod": 36.36,
+            "capmax.mod": 20.0,
+            "CaT.mod": 50.0,
+            "cdp_AIS.mod": 33.33,
+            "cdp_smooth.mod": 25.0,
+            "cdp_soma.mod": 18.18,
+            "cdp_spiny.mod": 10.26,
+            "distr.mod": 60.0,
+            "ih.mod": 62.5,
+            "Kv1.mod": 33.33,
+            "kv3.mod": 41.67,
+            "kv4f.mod": 50.0,
+            "kv4s.mod": 38.46,
+            "mslo.mod": 58.33,
+            "nap.mod": 33.33,
+            "narsg.mod": 14.29,
+            "peak.mod": 10.0,
+            "pkjlk.mod": 66.67,
+            "SK2.mod": 25.0,
+            "syn2.mod": 20.0
+        },
+        "File with most characters": {
+            "fig8.hoc": 25.76
+        },
+        "File with most comments": {
+            "fig8.hoc": 36.36
+        }
+    },
+    "183718": {
+        "Mod Files": {
+            "BSKCch.mod": 28.57,
+            "innp.mod": 20.0,
+            "izhcur.mod": 66.67
+        },
+        "File with most characters": {
+            "network.py": 43.48
+        },
+        "File with most comments": {
+            "BSKCch.mod": 37.5
+        }
+    },
+    "266687": {
+        "File with most characters": {
+            "Ausborn_et_al_2018_PLOScompbiol.m": 21.62
+        },
+        "File with most comments": {
+            "Ausborn_et_al_2018_PLOScompbiol.m": 34.29
+        }
+    },
+    "150678": {
+        "File with most characters": {
+            "netview-I.py": 50.0
+        },
+        "File with most comments": {
+            "netview-I.py": 33.33
+        }
+    },
+    "64296": {
+        "Mosinit Files": {
+            "mitral.hoc": 35.0
+        },
+        "Mod Files": {
+            "cadecay.mod": 18.18,
+            "Ih.mod": 68.75,
+            "INaP.mod": 22.73,
+            "kA.mod": 46.67,
+            "kca3.mod": 33.33,
+            "kfasttab.mod": 28.57,
+            "kO.mod": 18.18,
+            "kslowtab.mod": 35.71,
+            "lcafixed.mod": 24.0,
+            "nafast.mod": 26.32
+        },
+        "File with most characters": {
+            "mitral.hoc": 28.95
+        },
+        "File with most comments": {
+            "cadecay.mod": 33.33
+        }
+    },
+    "8284": {
+        "Mosinit Files": {
+            "cntrl.ses": 13.33,
+            "Ccellsyn.hoc": 22.22,
+            "HTcellsyn.hoc": 47.06
+        },
+        "Mod Files": {
+            "hyperde1.mod": 26.32,
+            "hyperde2.mod": 52.94,
+            "hyperde3.mod": 52.38,
+            "hyperso.mod": 55.56,
+            "ichan.mod": 25.0,
+            "ppsyn.mod": 23.08
+        },
+        "File with most characters": {
+            "HTcellsyn.hoc": 42.86
+        },
+        "File with most comments": {
+            "Ccellsyn.hoc": 28.0
+        }
+    },
+    "87582": {
+        "File with most characters": {
+            "one_cluster.m": 75.0
+        },
+        "File with most comments": {
+            "one_cluster.m": 25.0
+        }
+    },
+    "266806": {
+        "Mod Files": {
+            "Cav12.mod": 61.54,
+            "Cav13.mod": 57.14,
+            "Cav2_3.mod": 41.18,
+            "Cav3_1.mod": 72.73,
+            "cdp5StCmod.mod": 30.0,
+            "GOLGI_Ampa_mossy_det_vi.mod": 35.29,
+            "GOLGI_Ampa_pf_aa_det_vi.mod": 57.14,
+            "GRC_CA.mod": 37.5,
+            "GRC_KM.mod": 77.78,
+            "Hcn1.mod": 60.0,
+            "Hcn2.mod": 46.15,
+            "Kca11.mod": 53.85,
+            "Kca22.mod": 54.55,
+            "Kca31.mod": 63.64,
+            "Kv11.mod": 50.0,
+            "Kv34.mod": 60.0,
+            "Kv43.mod": 58.33,
+            "Leak.mod": 50.0,
+            "Nav16.mod": 50.0,
+            "PC_NMDA_NR2B.mod": 38.46
+        },
+        "File with most characters": {
+            "Golgi2020_morpho_1.py": 41.67
+        },
+        "File with most comments": {
+            "Cav3_1.mod": 53.85
+        }
+    },
+    "256628": {
+        "File with most characters": {
+            "AutoSim_istim085_distim5_ioff0_dgA0.mat": 24.14
+        },
+        "File with most comments": {
+            "fit_bivariate_sigma.m": 33.33
+        }
+    },
+    "267307": {
+        "Mod Files": {
+            "ampa_kin.mod": 54.55,
+            "cacumm.mod": 28.57,
+            "cagk.mod": 66.67,
+            "cal2.mod": 71.43,
+            "can2.mod": 30.77,
+            "cat.mod": 53.33,
+            "h.mod": 42.86,
+            "kadist.mod": 26.67,
+            "kaprox.mod": 33.33,
+            "kca.mod": 25.0,
+            "kdrca1.mod": 75.0,
+            "kmb.mod": 70.0,
+            "nap.mod": 38.89,
+            "naxn.mod": 21.74,
+            "nmdaSyn.mod": 71.43,
+            "nmda_kin2.mod": 33.33,
+            "vecevent.mod": 20.0
+        },
+        "File with most characters": {
+            "measure_spine_AR.py": 52.38
+        },
+        "File with most comments": {
+            "synaptic_cooperativity.py": 47.37
+        }
+    },
+    "190304": {
+        "Files starting with Fig": {
+            "figures_formatting.py": 28.57,
+            "fig_12.py": 50.0
+        },
+        "File with most characters": {
+            "get_initial_specie_information.py": 20.0
+        },
+        "File with most comments": {
+            "functions.py": 27.78
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "183718": {
+        "celltypes": {
+            "Abstract Wang-Buzsaki neuron": 2,
+            "Abstract Izhikevich neuron": 2
+        },
+        "currents": {
+            "I Na,t": 0,
+            "I Potassium": 0,
+            "I Sodium": 0,
+            "I K": 0
+        },
+        "genes": {},
+        "modelconcepts": {
+            "Ion Channel Kinetics": 0,
+            "Action Potentials": 0,
+            "Noise Sensitivity": 2,
+            "Simplified Models": 2,
+            "Bursting": 2,
+            "Spike Frequency Adaptation": 2,
+            "Oscillations": 2,
+            "Gamma oscillations": 1,
+            "Synchronization": 2
+        },
+        "modeltypes": {
+            "Channel/Receptor": 0,
+            "Neuron or other electrically excitable cell": 0,
+            "Spiking neural network": 2
+        },
+        "receptors": {},
+        "regions": {
+            "Hippocampus": 0,
+            "Generic": 2
+        },
+        "simenvironments": {
+            "NEURON": 1,
+            "Python": 1
+        },
+        "transmitters": {
+            "Gaba": 2,
+            "Glutamate": 0
+        }
+    },
+    "266687": {
+        "celltypes": {
+            "Spinal cord motor neuron fatigue resistant": 0,
+            "Spinal cord motor neuron slow twitch": 0,
+            "PreBotzinger complex neuron": 1,
+            "Spinal cord motor neuron fast fatiguing": 0,
+            "Respiratory column neuron": 0
+        },
+        "currents": {
+            "Channelrhodopsin (ChR)": 1,
+            "I Na,p": 2,
+            "I K": 2,
+            "I K,leak": 0
+        },
+        "genes": {},
+        "modelconcepts": {
+            "Synchronization": 0,
+            "Oscillations": 1,
+            "Pattern Recognition": 0,
+            "Bursting": 2,
+            "Temporal Pattern Generation": 2
+        },
+        "modeltypes": {
+            "Realistic Network": 1,
+            "Neuron or other electrically excitable cell": 2
+        },
+        "receptors": {},
+        "regions": {
+            "Brainstem": 1
+        },
+        "simenvironments": {
+            "MATLAB": 1
+        },
+        "transmitters": {
+            "Gaba": 2,
+            "Glutamate": 0
+        }
+    },
+    "150678": {
+        "celltypes": {},
+        "currents": {},
+        "genes": {},
+        "modelconcepts": {},
+        "modeltypes": {
+            "Neuron or other electrically excitable cell": 2
+        },
+        "receptors": {},
+        "regions": {},
+        "simenvironments": {
+            "Python": 0
+        },
+        "transmitters": {}
+    },
+    "64296": {
+        "celltypes": {
+            "Olfactory bulb main mitral GLU cell": 1,
+            "Hippocampus CA3 pyramidal GLU cell": 0,
+            "Hippocampus CA1 pyramidal GLU cell": 0,
+            "Hodgkin-Huxley neuron": 0,
+            "Squid axon": 0
+        },
+        "currents": {
+            "I h": 1,
+            "I K": 1,
+            "I Calcium": 1,
+            "I Na,t": 1,
+            "I K,Ca": 1,
+            "I Na,p": 1,
+            "I A": 1,
+            "I Potassium": 1,
+            "I Sodium": 1
+        },
+        "genes": {
+            "HCN1": 0,
+            "HCN4": 0,
+            "HCN3": 0,
+            "HCN2": 0,
+            "Nav1.6 SCN8A": 0,
+            "Kv4.2 KCND2": 0,
+            "Kv4.3 KCND3": 0,
+            "KCa1.1 KCNMA1": 0,
+            "Cav2.1 CACNA1A": 0,
+            "Cav2.2 CACNA1B": 0,
+            "Cav1.2 CACNA1C": 0,
+            "Nav1.2 SCN2A": 0,
+            "Kv1.4 KCNA4": 0
+        },
+        "modelconcepts": {
+            "Oscillations": 1,
+            "Dendritic Action Potentials": 0,
+            "Calcium dynamics": 2,
+            "Ion Channel Kinetics": 0,
+            "Action Potentials": 0,
+            "Membrane Properties": 0,
+            "Bursting": 1
+        },
+        "modeltypes": {
+            "Dendrite": 0,
+            "Neuron or other electrically excitable cell": 1,
+            "Channel/Receptor": 0
+        },
+        "receptors": {
+            "NMDA": 2,
+            "AMPA": 2
+        },
+        "regions": {
+            "Olfactory bulb": 2,
+            "Hippocampus": 0,
+            "Generic": 0
+        },
+        "simenvironments": {
+            "NEURON": 1
+        },
+        "transmitters": {
+            "Glutamate": 2,
+            "Gaba": 2
+        }
+    },
+    "8284": {
+        "celltypes": {
+            "Hippocampus CA1 pyramidal GLU cell": 1,
+            "Dentate gyrus granule GLU cell": 0,
+            "Hippocampus CA3 pyramidal GLU cell": 0
+        },
+        "currents": {
+            "I Na,t": 1,
+            "I h": 1,
+            "I K": 1,
+            "I Sodium": 2,
+            "I K,Ca": 0,
+            "I Potassium": 2
+        },
+        "genes": {
+            "HCN1": 0,
+            "HCN2": 0,
+            "HCN4": 0,
+            "HCN3": 0,
+            "Nav1.2 SCN2A": 0,
+            "Nav1.1 SCN1A": 0
+        },
+        "modelconcepts": {
+            "Action Potentials": 1,
+            "Ion Channel Kinetics": 1,
+            "Rebound firing": 1,
+            "Epilepsy": 1,
+            "Pathophysiology": 2,
+            "Synaptic Integration": 0
+        },
+        "modeltypes": {
+            "Neuron or other electrically excitable cell": 2,
+            "Channel/Receptor": 1,
+            "Synapse": 0
+        },
+        "receptors": {
+            "GabaA": 2,
+            "NMDA": 0,
+            "AMPA": 0
+        },
+        "regions": {
+            "Hippocampus": 2,
+            "Dentate gyrus": 0
+        },
+        "simenvironments": {
+            "NEURON": 1
+        },
+        "transmitters": {
+            "Gaba": 2,
+            "Glutamate": 0
+        }
+    },
+    "87582": {
+        "celltypes": {},
+        "currents": {},
+        "genes": {},
+        "modelconcepts": {
+            "Synaptic Plasticity": 1,
+            "Long-term Synaptic Plasticity": 2,
+            "STDP": 1
+        },
+        "modeltypes": {
+            "Synapse": 1,
+            "Neuron or other electrically excitable cell": 1
+        },
+        "receptors": {
+            "NMDA": 1,
+            "AMPA": 1
+        },
+        "regions": {
+            "Generic": 2
+        },
+        "simenvironments": {
+            "MATLAB": 1
+        },
+        "transmitters": {
+            "Glutamate": 0
+        }
+    },
+    "266806": {
+        "celltypes": {
+            "Dentate gyrus granule GLU cell": 0,
+            "Hippocampus CA3 pyramidal GLU cell": 0,
+            "Hippocampus CA1 pyramidal GLU cell": 0,
+            "Cerebellum Purkinje GABA cell": 0,
+            "Cerebellum interneuron Golgi GABA cell": 2,
+            "Cerebellum interneuron granule GLU cell": 0,
+            "Cerebellum golgi cell": 1
+        },
+        "currents": {
+            "I Calcium": 2,
+            "I L high threshold": 2,
+            "I R": 2,
+            "I T low threshold": 2,
+            "I M": 2,
+            "I h": 2,
+            "I K,Ca": 2,
+            "I K": 2,
+            "I Potassium": 2,
+            "I A": 0,
+            "I K,leak": 0,
+            "I Sodium": 1,
+            "I Na,t": 0,
+            "Na/K pump": 0
+        },
+        "genes": {
+            "Cav1.2 CACNA1C": 2,
+            "Cav1.3 CACNA1D": 2,
+            "Cav3.1 CACNA1G": 2,
+            "HCN1": 2,
+            "HCN2": 2,
+            "KCa1.1 KCNMA1": 2,
+            "KCa2.2 KCNN2": 2,
+            "KCa3.1 KCNN4": 2,
+            "Kv1.1 KCNA1": 2,
+            "Kv3.4 KCNC4": 2,
+            "Kv4.3 KCND3": 2,
+            "Nav1.6 SCN8A": 2,
+            "NR2B GRIN2B": 2
+        },
+        "modelconcepts": {
+            "Calcium dynamics": 1,
+            "Ion Channel Kinetics": 2,
+            "Action Potentials": 2,
+            "Temperature": 0,
+            "Detailed Neuronal Models": 2,
+            "Short-term Synaptic Plasticity": 0,
+            "Synaptic Plasticity": 2,
+            "Synaptic Integration": 0,
+            "Membrane Properties": 2,
+            "Pacemaking mechanism": 2,
+            "Electrotonus": 2
+        },
+        "modeltypes": {
+            "Channel/Receptor": 0,
+            "Neuron or other electrically excitable cell": 1,
+            "Electrogenic pump": 0,
+            "Synapse": 0,
+            "Dendrite": 0,
+            "Axon": 0
+        },
+        "receptors": {
+            "AMPA": 2,
+            "Glutamate": 2,
+            "NMDA": 2
+        },
+        "regions": {
+            "Dentate gyrus": 0,
+            "Hippocampus": 0,
+            "Cerebellum": 1
+        },
+        "simenvironments": {
+            "NEURON": 1,
+            "Python": 2
+        },
+        "transmitters": {
+            "Glutamate": 2,
+            "Gaba": 2
+        }
+    },
+    "256628": {
+        "celltypes": {},
+        "currents": {
+            "I Na,t": 1,
+            "I K,leak": 0
+        },
+        "genes": {
+            "Nav1.1 SCN1A": 0
+        },
+        "modelconcepts": {
+            "Action Potentials": 1,
+            "Parameter Fitting": 1,
+            "Methods": 2
+        },
+        "modeltypes": {
+            "Neuron or other electrically excitable cell": 2
+        },
+        "receptors": {
+            "NMDA": 0,
+            "AMPA": 0
+        },
+        "regions": {
+            "Hippocampus": 0
+        },
+        "simenvironments": {
+            "MATLAB": 1
+        },
+        "transmitters": {
+            "Glutamate": 0
+        }
+    },
+    "267307": {
+        "celltypes": {
+            "Hippocampus CA1 pyramidal GLU cell": 0,
+            "Squid axon": 0,
+            "Hippocampus CA3 pyramidal GLU cell": 1
+        },
+        "currents": {
+            "I Calcium": 1,
+            "I K,Ca": 1,
+            "I L high threshold": 2,
+            "I N": 2,
+            "I T low threshold": 2,
+            "I h": 1,
+            "I A": 2,
+            "I K": 1,
+            "I Potassium": 2,
+            "I M": 0,
+            "I Na,p": 1,
+            "I Na,t": 1,
+            "I Sodium": 2
+        },
+        "genes": {
+            "Cav3.3 CACNA1I": 0,
+            "Cav3.2 CACNA1H": 0,
+            "Cav3.1 CACNA1G": 0,
+            "HCN2": 0,
+            "HCN4": 0,
+            "HCN1": 0,
+            "HCN3": 0,
+            "Kv4.2 KCND2": 0,
+            "Kv4.3 KCND3": 0,
+            "KCa2.2 KCNN2": 0,
+            "KCa2.1 KCNN1": 0,
+            "KCa1.1 KCNMA1": 0,
+            "Nav1.6 SCN8A": 0,
+            "NR2B GRIN2B": 0,
+            "NR2A GRIN2A": 0
+        },
+        "modelconcepts": {
+            "Synaptic Plasticity": 0,
+            "Synaptic Integration": 1,
+            "Calcium dynamics": 2,
+            "Ion Channel Kinetics": 0,
+            "Dendritic Action Potentials": 0,
+            "Action Potentials": 1,
+            "Axonal Action Potentials": 0,
+            "Parameter Fitting": 1
+        },
+        "modeltypes": {
+            "Synapse": 0,
+            "Channel/Receptor": 0,
+            "Neuron or other electrically excitable cell": 1
+        },
+        "receptors": {
+            "AMPA": 1,
+            "NMDA": 1
+        },
+        "regions": {
+            "Generic": 0,
+            "Hippocampus": 1
+        },
+        "simenvironments": {
+            "NEURON": 1,
+            "Python": 2
+        },
+        "transmitters": {
+            "Glutamate": 0
+        }
+    },
+    "190304": {
+        "celltypes": {},
+        "currents": {},
+        "genes": {},
+        "modelconcepts": {
+            "Synaptic Plasticity": 2,
+            "Long-term Synaptic Plasticity": 1,
+            "Calcium dynamics": 2,
+            "Signaling pathways": 1
+        },
+        "modeltypes": {
+            "Neuron or other electrically excitable cell": 2,
+            "Molecular Network": 2
+        },
+        "receptors": {},
+        "regions": {
+            "Hippocampus": 2,
+            "Generic": 0
+        },
+        "simenvironments": {
+            "Python": 2,
+            "NeuroRD": 1
+        },
+        "transmitters": {}
+    }
+}

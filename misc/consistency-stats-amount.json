@@ -1,0 +1,4790 @@
+{
+    "237555": {
+        "File with most characters": {
+            "schaffercollateral.py": {
+                "everything_lists": 21,
+                "two_lists": 14,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "corticostriatal.py": {
+                "everything_lists": 21,
+                "two_lists": 12,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "184176": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 16,
+                "two_lists": 12,
+                "perfect_lists": 6
+            },
+            "Ih.mod": {
+                "everything_lists": 18,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "Im.mod": {
+                "everything_lists": 11,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "Im_v2.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Kd.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "Kv2like.mod": {
+                "everything_lists": 11,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "K_P.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "K_T.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "Nap.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "NaTa.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "NaTs.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "NaV.mod": {
+                "everything_lists": 19,
+                "two_lists": 16,
+                "perfect_lists": 11
+            },
+            "SK.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "181967": {
+        "Mosinit Files": {
+            "GC.hoc": {
+                "everything_lists": 36,
+                "two_lists": 19,
+                "perfect_lists": 14
+            },
+            "MC.hoc": {
+                "everything_lists": 36,
+                "two_lists": 20,
+                "perfect_lists": 12
+            },
+            "BasketCell.hoc": {
+                "everything_lists": 28,
+                "two_lists": 14,
+                "perfect_lists": 11
+            },
+            "HC.hoc": {
+                "everything_lists": 40,
+                "two_lists": 21,
+                "perfect_lists": 15
+            },
+            "CA3PC.hoc": {
+                "everything_lists": 52,
+                "two_lists": 19,
+                "perfect_lists": 9
+            },
+            "CA3BC.hoc": {
+                "everything_lists": 33,
+                "two_lists": 18,
+                "perfect_lists": 14
+            },
+            "CA3AAC.hoc": {
+                "everything_lists": 23,
+                "two_lists": 17,
+                "perfect_lists": 12
+            },
+            "CA3OLM.hoc": {
+                "everything_lists": 28,
+                "two_lists": 18,
+                "perfect_lists": 12
+            },
+            "CA1PC.hoc": {
+                "everything_lists": 55,
+                "two_lists": 33,
+                "perfect_lists": 10
+            },
+            "CA1AAC.hoc": {
+                "everything_lists": 34,
+                "two_lists": 20,
+                "perfect_lists": 13
+            },
+            "CA1BC.hoc": {
+                "everything_lists": 34,
+                "two_lists": 16,
+                "perfect_lists": 13
+            },
+            "CA1BSC.hoc": {
+                "everything_lists": 29,
+                "two_lists": 16,
+                "perfect_lists": 9
+            },
+            "CA1OLM.hoc": {
+                "everything_lists": 32,
+                "two_lists": 16,
+                "perfect_lists": 12
+            },
+            "stim_cell.hoc": {
+                "everything_lists": 6,
+                "two_lists": 2,
+                "perfect_lists": 1
+            },
+            "burst_cell.hoc": {
+                "everything_lists": 4,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "ranstream.hoc": {
+                "everything_lists": 4,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "network.hoc": {
+                "everything_lists": 43,
+                "two_lists": 26,
+                "perfect_lists": 15
+            },
+            "rig.hoc": {
+                "everything_lists": 24,
+                "two_lists": 13,
+                "perfect_lists": 10
+            },
+            "gui.ses": {
+                "everything_lists": 25,
+                "two_lists": 11,
+                "perfect_lists": 8
+            }
+        },
+        "Mod Files": {
+            "ANsyn.mod": {
+                "everything_lists": 8,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "bgka.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "borgkm.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "burststim.mod": {
+                "everything_lists": 6,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "cacumm.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "cad.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "cadiv.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cagk.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cagk2.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "cagk3.mod": {
+                "everything_lists": 7,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "cal.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cal1.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "cal2.mod": {
+                "everything_lists": 13,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "calH.mod": {
+                "everything_lists": 16,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "can2.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "can3.mod": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "car.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "cat.mod": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "cat2.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "cat3.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 8
+            },
+            "ccanl.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "distr.mod": {
+                "everything_lists": 4,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "gskch.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "h.mod": {
+                "everything_lists": 15,
+                "two_lists": 11,
+                "perfect_lists": 11
+            },
+            "h2.mod": {
+                "everything_lists": 21,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "hha2.mod": {
+                "everything_lists": 22,
+                "two_lists": 11,
+                "perfect_lists": 5
+            },
+            "hha_old.mod": {
+                "everything_lists": 10,
+                "two_lists": 9,
+                "perfect_lists": 9
+            },
+            "hNa.mod": {
+                "everything_lists": 20,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "hyperde3.mod": {
+                "everything_lists": 16,
+                "two_lists": 12,
+                "perfect_lists": 10
+            },
+            "IA.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "ichan2.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 3
+            },
+            "Ih.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 8
+            },
+            "kad.mod": {
+                "everything_lists": 14,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "kahp.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "KahpM95.mod": {
+                "everything_lists": 18,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "kap.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "kaprox.mod": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "Kaxon.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "kca.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "kd.mod": {
+                "everything_lists": 10,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "Kdend.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "kdr.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kdrca1.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "km.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "km2.mod": {
+                "everything_lists": 8,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "Ksoma.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "LcaMig.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "my_exp2syn.mod": {
+                "everything_lists": 14,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "na3n.mod": {
+                "everything_lists": 17,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "Naaxon.mod": {
+                "everything_lists": 24,
+                "two_lists": 15,
+                "perfect_lists": 10
+            },
+            "Nadend.mod": {
+                "everything_lists": 18,
+                "two_lists": 12,
+                "perfect_lists": 4
+            },
+            "nahh.mod": {
+                "everything_lists": 22,
+                "two_lists": 11,
+                "perfect_lists": 9
+            },
+            "Nasoma.mod": {
+                "everything_lists": 20,
+                "two_lists": 11,
+                "perfect_lists": 2
+            },
+            "naxn.mod": {
+                "everything_lists": 14,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "nca.mod": {
+                "everything_lists": 5,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "nmda.mod": {
+                "everything_lists": 25,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "regn_stim.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "somacar.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "network.hoc": {
+                "everything_lists": 33,
+                "two_lists": 26,
+                "perfect_lists": 15
+            }
+        },
+        "File with most comments": {
+            "cacumm.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "249706": {
+        "File with most characters": {
+            "run_suppfig5a.py": {
+                "everything_lists": 27,
+                "two_lists": 11,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "run_fig2.py": {
+                "everything_lists": 14,
+                "two_lists": 10,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "245018": {
+        "File with most characters": {
+            "seq_neuromod_plasticity.m": {
+                "everything_lists": 30,
+                "two_lists": 13,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "seq_neuromod_plasticity.m": {
+                "everything_lists": 21,
+                "two_lists": 11,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "154288": {
+        "File with most characters": {
+            "GutigSompolinsky2009.py": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "GutigSompolinsky2009.py": {
+                "everything_lists": 21,
+                "two_lists": 9,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "154732": {
+        "Mosinit Files": {
+            "run_PC.hoc": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "burststim2.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "cad.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "cagk.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "carF.mod": {
+                "everything_lists": 21,
+                "two_lists": 13,
+                "perfect_lists": 6
+            },
+            "distca.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "distr.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "h.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 10
+            },
+            "kadist.mod": {
+                "everything_lists": 14,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kaprox.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kca.mod": {
+                "everything_lists": 14,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "kdrca1.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "km.mod": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "na3n.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "naxn.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "nmdaca.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "File with most characters": {
+            "Mig_geo5038804.hoc": {
+                "everything_lists": 21,
+                "two_lists": 7,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "distr.mod": {
+                "everything_lists": 4,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "117691": {
+        "File with most characters": {
+            "DS_especial.cfg": {
+                "everything_lists": 5,
+                "two_lists": 3,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "168591": {
+        "Mod Files": {
+            "ampanmda.mod": {
+                "everything_lists": 20,
+                "two_lists": 14,
+                "perfect_lists": 11
+            },
+            "distrt.mod": {
+                "everything_lists": 6,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "fi.mod": {
+                "everything_lists": 21,
+                "two_lists": 16,
+                "perfect_lists": 10
+            },
+            "fi_stdp.mod": {
+                "everything_lists": 20,
+                "two_lists": 14,
+                "perfect_lists": 8
+            },
+            "kamt.mod": {
+                "everything_lists": 11,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "kdrmt.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "naxn.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "ThreshDetect.mod": {
+                "everything_lists": 3,
+                "two_lists": 3,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "mayasyn.py": {
+                "everything_lists": 20,
+                "two_lists": 14,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "grow.py": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "119283": {
+        "Mosinit Files": {
+            "Fig.4E.hoc": {
+                "everything_lists": 37,
+                "two_lists": 22,
+                "perfect_lists": 11
+            }
+        },
+        "Mod Files": {
+            "distr.mod": {
+                "everything_lists": 5,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "h.mod": {
+                "everything_lists": 13,
+                "two_lists": 11,
+                "perfect_lists": 9
+            },
+            "kadist.mod": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "kaprox.mod": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "kdrca1.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "na3n.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "naxn.mod": {
+                "everything_lists": 22,
+                "two_lists": 11,
+                "perfect_lists": 5
+            },
+            "netstimm.mod": {
+                "everything_lists": 16,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "n128su.hoc": {
+                "everything_lists": 35,
+                "two_lists": 18,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "Fig.4E.hoc": {
+                "everything_lists": 31,
+                "two_lists": 19,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "144490": {
+        "Mosinit Files": {
+            "bpap-gui.hoc": {
+                "everything_lists": 26,
+                "two_lists": 12,
+                "perfect_lists": 8
+            }
+        },
+        "Mod Files": {
+            "ampa_forti.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 9
+            },
+            "cacum.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "cad.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "cagk.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "cal.mod": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "calH.mod": {
+                "everything_lists": 15,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "car.mod": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 5
+            },
+            "car_mag.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "cat.mod": {
+                "everything_lists": 16,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "d3.mod": {
+                "everything_lists": 5,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "h.mod": {
+                "everything_lists": 11,
+                "two_lists": 10,
+                "perfect_lists": 2
+            },
+            "hha2.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "hha_old.mod": {
+                "everything_lists": 16,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kadist.mod": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "kaprox.mod": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kca.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "km.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "nap.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "nmda_andr.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "somacar.mod": {
+                "everything_lists": 19,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "gabaa.mod": {
+                "everything_lists": 13,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "gabab.mod": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "glutamate.mod": {
+                "everything_lists": 17,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "nmda.mod": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "old20100419cell1_topadj.hoc": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "NmdaAmpaSynStim.hoc": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "140881": {
+        "Mosinit Files": {
+            "stdgui.hoc": {
+                "everything_lists": 15,
+                "two_lists": 2,
+                "perfect_lists": 2
+            },
+            "setup.hoc": {
+                "everything_lists": 1,
+                "two_lists": 1,
+                "perfect_lists": 1
+            },
+            "nrnoc.hoc": {
+                "everything_lists": 48,
+                "two_lists": 23,
+                "perfect_lists": 9
+            },
+            "init.hoc": {
+                "everything_lists": 6,
+                "two_lists": 2,
+                "perfect_lists": 1
+            },
+            "nqsnet.hoc": {
+                "everything_lists": 27,
+                "two_lists": 13,
+                "perfect_lists": 11
+            },
+            "network.hoc": {
+                "everything_lists": 84,
+                "two_lists": 25,
+                "perfect_lists": 11
+            },
+            "params.hoc": {
+                "everything_lists": 28,
+                "two_lists": 17,
+                "perfect_lists": 13
+            },
+            "run.hoc": {
+                "everything_lists": 169,
+                "two_lists": 15,
+                "perfect_lists": 10
+            },
+            "gload.hoc": {
+                "everything_lists": 22,
+                "two_lists": 10,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "intf6_.mod": {
+                "everything_lists": 31,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "misc.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "nstim.mod": {
+                "everything_lists": 11,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "stats.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 1
+            },
+            "vecst.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 1
+            }
+        },
+        "File with most characters": {
+            "nqs.hoc": {
+                "everything_lists": 8,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        },
+        "File with most comments": {
+            "mosinit.hoc": {
+                "everything_lists": 8,
+                "two_lists": 3,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "114654": {
+        "File with most characters": {
+            "purkinje_bignet21.f": {
+                "everything_lists": 58,
+                "two_lists": 26,
+                "perfect_lists": 15
+            }
+        },
+        "File with most comments": {
+            "purkinje_bignet21.f": {
+                "everything_lists": 36,
+                "two_lists": 24,
+                "perfect_lists": 16
+            }
+        }
+    },
+    "137743": {
+        "File with most characters": {
+            "mhconmatvalues20100928_octave.m": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "mhconmatvalues20100928_octave.m": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "184168": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 17,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "Ih.mod": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "Im.mod": {
+                "everything_lists": 14,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "Im_v2.mod": {
+                "everything_lists": 17,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "Kd.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "Kv2like.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 7,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "K_P.mod": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "K_T.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "Nap.mod": {
+                "everything_lists": 15,
+                "two_lists": 11,
+                "perfect_lists": 4
+            },
+            "NaTa.mod": {
+                "everything_lists": 14,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "NaTs.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "NaV.mod": {
+                "everything_lists": 17,
+                "two_lists": 16,
+                "perfect_lists": 11
+            },
+            "SK.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 18,
+                "two_lists": 17,
+                "perfect_lists": 11
+            }
+        }
+    },
+    "141270": {
+        "File with most characters": {
+            "ltd_updated.py": {
+                "everything_lists": 20,
+                "two_lists": 13,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "ltd_updated.py": {
+                "everything_lists": 23,
+                "two_lists": 12,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "2730": {
+        "Mosinit Files": {
+            "init.hoc": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "cadecay.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "flushf.mod": {
+                "everything_lists": 3,
+                "two_lists": 2,
+                "perfect_lists": 1
+            },
+            "kA.mod": {
+                "everything_lists": 11,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "kca.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kfasttab.mod": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "kM.mod": {
+                "everything_lists": 21,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "kslowtab.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "lcafixed.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "nafast.mod": {
+                "everything_lists": 20,
+                "two_lists": 12,
+                "perfect_lists": 8
+            },
+            "nagran.mod": {
+                "everything_lists": 14,
+                "two_lists": 14,
+                "perfect_lists": 7
+            },
+            "nmdanet.mod": {
+                "everything_lists": 20,
+                "two_lists": 11,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "odour_baseline.connect": {
+                "everything_lists": 38,
+                "two_lists": 16,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "cadecay.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "206365": {
+        "File with most characters": {
+            "bursting_duration.mat": {
+                "everything_lists": 31,
+                "two_lists": 6,
+                "perfect_lists": 5
+            }
+        },
+        "File with most comments": {
+            "K.m": {
+                "everything_lists": 5,
+                "two_lists": 1,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "53893": {
+        "Files starting with Fig": {
+            "fig3.hoc": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 4
+            }
+        },
+        "Mod Files": {
+            "lva.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "fig3.hoc": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "fig3.hoc": {
+                "everything_lists": 11,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "147117": {
+        "File with most characters": {
+            "runhh.m": {
+                "everything_lists": 37,
+                "two_lists": 25,
+                "perfect_lists": 11
+            }
+        },
+        "File with most comments": {
+            "runhh.m": {
+                "everything_lists": 30,
+                "two_lists": 22,
+                "perfect_lists": 15
+            }
+        }
+    },
+    "119214": {
+        "File with most characters": {
+            "victor.css": {
+                "everything_lists": 1,
+                "two_lists": 0,
+                "perfect_lists": 0
+            }
+        }
+    },
+    "267566": {
+        "File with most characters": {
+            "JP_22.m": {
+                "everything_lists": 23,
+                "two_lists": 11,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "JP_22.m": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "184545": {
+        "File with most characters": {
+            "OLM_cell.py": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "OLM_cell.py": {
+                "everything_lists": 11,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "62266": {
+        "Mosinit Files": {
+            "cylinder.hoc": {
+                "everything_lists": 21,
+                "two_lists": 15,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "B_A.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "B_DR.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "B_NA.mod": {
+                "everything_lists": 18,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "File with most characters": {
+            "B_NA.mod": {
+                "everything_lists": 18,
+                "two_lists": 9,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "B_A.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "266498": {
+        "Mod Files": {
+            "caext.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "caextscale.mod": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "caint.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "CaIntraCellDyn.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "caintscale.mod": {
+                "everything_lists": 4,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "cal.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "can.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "CaPump.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "cat.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "DNav18.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "extrapump.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "fpump.mod": {
+                "everything_lists": 8,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "h.mod": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 6
+            },
+            "im.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "ka.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "KCa.mod": {
+                "everything_lists": 13,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kd.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kdr.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kdr_Tiger.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "kds.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "kext.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 3
+            },
+            "kexternal.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "kf.mod": {
+                "everything_lists": 7,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "kna.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "ks.mod": {
+                "everything_lists": 7,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "k_ion_dynamics.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "leak.mod": {
+                "everything_lists": 8,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "leakSchild.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "NaCaPump.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "NaCX.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "nadifl.mod": {
+                "everything_lists": 16,
+                "two_lists": 5,
+                "perfect_lists": 1
+            },
+            "naext.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "naf.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "naf97.mod": {
+                "everything_lists": 18,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "naf97mean.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "nahh.mod": {
+                "everything_lists": 20,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "Nakpump.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "NakpumpSchild.mod": {
+                "everything_lists": 5,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "nas.mod": {
+                "everything_lists": 13,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "nas97.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "nas97mean.mod": {
+                "everything_lists": 20,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "nattxs.mod": {
+                "everything_lists": 20,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "nav1p9.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "na_ion_dynamics.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "RattayAberham.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "kca.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "acaextVclamp.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "acaintVclamp.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "acanVclamp.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 1
+            },
+            "aCaPumpVclamp.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "acatVclamp.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "akaVclamp.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "akcaVclamp.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "akdsVclamp.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "akdVclamp.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "aleakVclamp.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "aNaCaPumpVclamp.mod": {
+                "everything_lists": 10,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "anafVclamp.mod": {
+                "everything_lists": 15,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "aNakpumpVclamp.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "anasVclamp.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "Schild_1994_A-C-Fiber_Model.hoc": {
+                "everything_lists": 32,
+                "two_lists": 15,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "caextscale.mod": {
+                "everything_lists": 14,
+                "two_lists": 6,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "126899": {
+        "File with most characters": {
+            "Rothman_Manis_2003.py": {
+                "everything_lists": 15,
+                "two_lists": 11,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "Rothman_Manis_2003.py": {
+                "everything_lists": 23,
+                "two_lists": 14,
+                "perfect_lists": 12
+            }
+        }
+    },
+    "150225": {
+        "File with most characters": {
+            "CerebellumIODCNAbstractFext.mdl": {
+                "everything_lists": 34,
+                "two_lists": 16,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "LaunchCerebellumSimulink.m": {
+                "everything_lists": 29,
+                "two_lists": 16,
+                "perfect_lists": 9
+            }
+        }
+    },
+    "116981": {
+        "Mosinit Files": {
+            "init.hoc": {
+                "everything_lists": 21,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "gpulse.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 1
+            }
+        },
+        "File with most characters": {
+            "init.hoc": {
+                "everything_lists": 19,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "gpulse.mod": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "126465": {
+        "File with most characters": {
+            "all_pairs_model.py": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 5
+            }
+        },
+        "File with most comments": {
+            "all_pairs_model.py": {
+                "everything_lists": 15,
+                "two_lists": 7,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "37819": {
+        "Mosinit Files": {
+            "batch_.hoc": {
+                "everything_lists": 30,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        },
+        "Mod Files": {
+            "AMPA.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 2
+            },
+            "burst.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "ca.mod": {
+                "everything_lists": 15,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "cad.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "cadecay.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "GABAA.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "gabab.mod": {
+                "everything_lists": 16,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "GABAB2.mod": {
+                "everything_lists": 4,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "gababS.mod": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 4
+            },
+            "HH2.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "Iahp.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Ican.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Ih.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 12
+            },
+            "intf.mod": {
+                "everything_lists": 12,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "IT.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 6
+            },
+            "IT2.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "kca.mod": {
+                "everything_lists": 15,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kdr.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kl.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "kleak.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "km.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kmbg.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "kv.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "matrix.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 2
+            },
+            "na.mod": {
+                "everything_lists": 20,
+                "two_lists": 16,
+                "perfect_lists": 9
+            },
+            "naf.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "nap.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "NMDA.mod": {
+                "everything_lists": 7,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "nstim.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "ntia.mod": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "tcifb.mod": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "tia.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "vecst.mod": {
+                "everything_lists": 7,
+                "two_lists": 3,
+                "perfect_lists": 1
+            }
+        },
+        "File with most characters": {
+            "batch_.hoc": {
+                "everything_lists": 20,
+                "two_lists": 12,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "AMPA.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "127995": {
+        "Mosinit Files": {
+            "start.hoc": {
+                "everything_lists": 28,
+                "two_lists": 16,
+                "perfect_lists": 13
+            }
+        },
+        "Mod Files": {
+            "ampanmda.mod": {
+                "everything_lists": 16,
+                "two_lists": 12,
+                "perfect_lists": 9
+            },
+            "fi.mod": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "kamt.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "kdrmt.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "naxn.mod": {
+                "everything_lists": 25,
+                "two_lists": 13,
+                "perfect_lists": 7
+            },
+            "ThreshDetect.mod": {
+                "everything_lists": 7,
+                "two_lists": 3,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "show.hoc": {
+                "everything_lists": 19,
+                "two_lists": 12,
+                "perfect_lists": 11
+            }
+        },
+        "File with most comments": {
+            "perfrun.hoc": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "98902": {
+        "File with most characters": {
+            "netclustwacnmdadiff.c": {
+                "everything_lists": 25,
+                "two_lists": 12,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "mkpar.c": {
+                "everything_lists": 28,
+                "two_lists": 15,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "266868": {
+        "File with most characters": {
+            "analytical_fixed_point.m": {
+                "everything_lists": 12,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "main_BTSP_model_simulations.m": {
+                "everything_lists": 11,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "20014": {
+        "Mosinit Files": {
+            "Fig2_A_D.hoc": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 3
+            },
+            "Fig2_E_H.hoc": {
+                "everything_lists": 24,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "Fig3_A.hoc": {
+                "everything_lists": 16,
+                "two_lists": 7,
+                "perfect_lists": 3
+            },
+            "Fig3_B_D.hoc": {
+                "everything_lists": 16,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "Fig3_C.hoc": {
+                "everything_lists": 19,
+                "two_lists": 10,
+                "perfect_lists": 2
+            }
+        },
+        "Mod Files": {
+            "hh1.mod": {
+                "everything_lists": 15,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "PasD.mod": {
+                "everything_lists": 19,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "PasS.mod": {
+                "everything_lists": 19,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "PasSA.mod": {
+                "everything_lists": 14,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "mosinit.hoc": {
+                "everything_lists": 22,
+                "two_lists": 8,
+                "perfect_lists": 2
+            }
+        },
+        "File with most comments": {
+            "Fig2_E_H.hoc": {
+                "everything_lists": 23,
+                "two_lists": 6,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "155057": {
+        "Mosinit Files": {
+            "init.hoc": {
+                "everything_lists": 9,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        },
+        "Mod Files": {
+            "ampa.mod": {
+                "everything_lists": 22,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "ampain.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "cadyn.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "cal.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "can.mod": {
+                "everything_lists": 17,
+                "two_lists": 11,
+                "perfect_lists": 4
+            },
+            "car.mod": {
+                "everything_lists": 22,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "cat.mod": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 4
+            },
+            "gabaa.mod": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "gabaain.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 9
+            },
+            "gabab.mod": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "h.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "ican.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "iks.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "kadist.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kca.mod": {
+                "everything_lists": 13,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "kct.mod": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "kdr.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "naf.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 5
+            },
+            "nap.mod": {
+                "everything_lists": 36,
+                "two_lists": 15,
+                "perfect_lists": 5
+            },
+            "netstim.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "NMDA.mod": {
+                "everything_lists": 16,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "NMDA_syn.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "sinclamp.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "vecstim.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 2
+            }
+        },
+        "File with most characters": {
+            "importBackgroundStimParams.hoc": {
+                "everything_lists": 25,
+                "two_lists": 14,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "validation.hoc": {
+                "everything_lists": 35,
+                "two_lists": 19,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "189946": {
+        "File with most characters": {
+            "OriginalModel.m": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "OriginalModel.m": {
+                "everything_lists": 16,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "144010": {
+        "File with most characters": {
+            "ML_depress_sim.m": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "ML_depress_sim.m": {
+                "everything_lists": 30,
+                "two_lists": 14,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "260740": {
+        "File with most characters": {
+            "OrientationMapsJi.mat": {
+                "everything_lists": 24,
+                "two_lists": 4,
+                "perfect_lists": 1
+            }
+        },
+        "File with most comments": {
+            "OrientationMapsJi.mat": {
+                "everything_lists": 24,
+                "two_lists": 10,
+                "perfect_lists": 9
+            }
+        }
+    },
+    "151282": {
+        "Mod Files": {
+            "CA3ih.mod": {
+                "everything_lists": 14,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "CA3ika.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "CA3ikdr.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "CA3ina.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "caolmw.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "HCN1.mod": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "icaolmw.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "iholmw.mod": {
+                "everything_lists": 19,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "ihstatic.mod": {
+                "everything_lists": 10,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "kcaolmw.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "kdrbwb.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "misc.mod": {
+                "everything_lists": 4,
+                "two_lists": 3,
+                "perfect_lists": 1
+            },
+            "MyExp2SynBB.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "MyExp2SynNMDABB.mod": {
+                "everything_lists": 15,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "nafbwb.mod": {
+                "everything_lists": 24,
+                "two_lists": 16,
+                "perfect_lists": 5
+            },
+            "stats.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "vecst.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "nqs.hoc": {
+                "everything_lists": 20,
+                "two_lists": 2,
+                "perfect_lists": 2
+            }
+        },
+        "File with most comments": {
+            "grvec.hoc": {
+                "everything_lists": 21,
+                "two_lists": 4,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "3677": {
+        "Mosinit Files": {
+            "ri18run.hoc": {
+                "everything_lists": 22,
+                "two_lists": 11,
+                "perfect_lists": 4
+            },
+            "ri21run.hoc": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "ri22run.hoc": {
+                "everything_lists": 26,
+                "two_lists": 15,
+                "perfect_lists": 12
+            }
+        },
+        "Mod Files": {
+            "iqq.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "synampa.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "ri21geo2.hoc": {
+                "everything_lists": 26,
+                "two_lists": 14,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "ri22func.hoc": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "226422": {
+        "Mod Files": {
+            "MAT_model.mod": {
+                "everything_lists": 11,
+                "two_lists": 8,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "MAT_Neuron_StepCurrent.py": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "MAT_Neuron_StepCurrent.py": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "57905": {
+        "File with most characters": {
+            "sn.c": {
+                "everything_lists": 44,
+                "two_lists": 15,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "nr.c": {
+                "everything_lists": 13,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "148644": {
+        "Mosinit Files": {
+            "Fig4C.hoc": {
+                "everything_lists": 30,
+                "two_lists": 11,
+                "perfect_lists": 8
+            }
+        },
+        "Mod Files": {
+            "distr.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 1
+            },
+            "h.mod": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 10
+            },
+            "kadist.mod": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "kaprox.mod": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "kdrca1.mod": {
+                "everything_lists": 17,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "na3n.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "naxn.mod": {
+                "everything_lists": 13,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "netstims.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "geo5038804.hoc": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "Fig4C.hoc": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "83562": {
+        "File with most characters": {
+            "extendedbg_current.mdl": {
+                "everything_lists": 28,
+                "two_lists": 10,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "extended_model_ZOH.m": {
+                "everything_lists": 33,
+                "two_lists": 25,
+                "perfect_lists": 16
+            }
+        }
+    },
+    "235052": {
+        "Mod Files": {
+            "afKDR.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "asKDR.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "DGCaT.mod": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "migNa.mod": {
+                "everything_lists": 20,
+                "two_lists": 16,
+                "perfect_lists": 8
+            }
+        },
+        "File with most characters": {
+            "Fig2.hoc": {
+                "everything_lists": 19,
+                "two_lists": 13,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "Fig2.hoc": {
+                "everything_lists": 43,
+                "two_lists": 15,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "2017006": {
+        "Mod Files": {
+            "kf_a_schild94.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kf_d_schild94.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "ks.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "ms_v2_GHK_lamda.mod": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 3
+            },
+            "nakpump_rasmusson2004.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "nak_difl.mod": {
+                "everything_lists": 17,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "nav1p6_raman03.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "nav1p7_wax11.mod": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "nav1p8_baker05.mod": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "nav1p9_baker05.mod": {
+                "everything_lists": 7,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "pas_BF.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 2
+            }
+        },
+        "File with most characters": {
+            "nav1p6_raman03.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "136773": {
+        "File with most characters": {
+            "Cressman_et_al_JCNS_1_fullmodel_RK4.c": {
+                "everything_lists": 26,
+                "two_lists": 10,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "Cressman_et_al_JCNS_1_reducedmodel.ode": {
+                "everything_lists": 20,
+                "two_lists": 9,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "37129": {
+        "File with most characters": {
+            "controlpath.c": {
+                "everything_lists": 18,
+                "two_lists": 5,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "controlpath.c": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "2014996": {
+        "File with most characters": {
+            "kf_s2.ode": {
+                "everything_lists": 29,
+                "two_lists": 16,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "kf_s1.ode": {
+                "everything_lists": 33,
+                "two_lists": 15,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "228604": {
+        "File with most characters": {
+            "gracePlot.py": {
+                "everything_lists": 2,
+                "two_lists": 1,
+                "perfect_lists": 1
+            }
+        },
+        "File with most comments": {
+            "grace_np.py": {
+                "everything_lists": 3,
+                "two_lists": 1,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "184196": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 2
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 11,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 19,
+                "two_lists": 13,
+                "perfect_lists": 9
+            },
+            "Ih.mod": {
+                "everything_lists": 19,
+                "two_lists": 12,
+                "perfect_lists": 8
+            },
+            "Im.mod": {
+                "everything_lists": 23,
+                "two_lists": 8,
+                "perfect_lists": 3
+            },
+            "Im_v2.mod": {
+                "everything_lists": 14,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "Kd.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "Kv2like.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "K_P.mod": {
+                "everything_lists": 16,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "K_T.mod": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "Nap.mod": {
+                "everything_lists": 12,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "NaTa.mod": {
+                "everything_lists": 20,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "NaTs.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 8
+            },
+            "NaV.mod": {
+                "everything_lists": 12,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "SK.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 13,
+                "two_lists": 12,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "206310": {
+        "File with most characters": {
+            "BehniaData.mat": {
+                "everything_lists": 24,
+                "two_lists": 1,
+                "perfect_lists": 1
+            }
+        },
+        "File with most comments": {
+            "DtSweeps.m": {
+                "everything_lists": 20,
+                "two_lists": 9,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "184344": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 6
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "Ih.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 10
+            },
+            "Im.mod": {
+                "everything_lists": 21,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Im_v2.mod": {
+                "everything_lists": 14,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "Kd.mod": {
+                "everything_lists": 14,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Kv2like.mod": {
+                "everything_lists": 10,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "K_P.mod": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "K_T.mod": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "Nap.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "NaTa.mod": {
+                "everything_lists": 18,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "NaTs.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "NaV.mod": {
+                "everything_lists": 13,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "SK.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "150288": {
+        "Mod Files": {
+            "bg2inter.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "bg2pyr.mod": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "ca.mod": {
+                "everything_lists": 21,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "cadyn.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "cal2.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "capool.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "function_TMonitor.mod": {
+                "everything_lists": 5,
+                "two_lists": 2,
+                "perfect_lists": 1
+            },
+            "h.mod": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 10
+            },
+            "im.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "interD2pyrDDANE_STFD.mod": {
+                "everything_lists": 24,
+                "two_lists": 14,
+                "perfect_lists": 9
+            },
+            "interD2pyrDDA_STFD.mod": {
+                "everything_lists": 28,
+                "two_lists": 15,
+                "perfect_lists": 7
+            },
+            "interD2pyrDNE_STFD.mod": {
+                "everything_lists": 21,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "interD2pyrD_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 7
+            },
+            "interD2pyrVDA_STFD.mod": {
+                "everything_lists": 28,
+                "two_lists": 15,
+                "perfect_lists": 7
+            },
+            "interD2pyrV_STFD.mod": {
+                "everything_lists": 22,
+                "two_lists": 13,
+                "perfect_lists": 6
+            },
+            "interV2pyrDDANE_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 14,
+                "perfect_lists": 10
+            },
+            "interV2pyrDDA_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 14,
+                "perfect_lists": 6
+            },
+            "interV2pyrDNE_STFD.mod": {
+                "everything_lists": 21,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "interV2pyrD_STFD.mod": {
+                "everything_lists": 16,
+                "two_lists": 13,
+                "perfect_lists": 11
+            },
+            "interV2pyrVDA_STFD.mod": {
+                "everything_lists": 31,
+                "two_lists": 15,
+                "perfect_lists": 7
+            },
+            "interV2pyrV_STFD.mod": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "kadist.mod": {
+                "everything_lists": 15,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "kaprox.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "kdrca1.mod": {
+                "everything_lists": 16,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kdrca1DA.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 9
+            },
+            "kdrinter.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 3
+            },
+            "leak.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "leakDA.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "leakinter.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "na3.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 4
+            },
+            "na3DA.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 7
+            },
+            "nainter.mod": {
+                "everything_lists": 25,
+                "two_lists": 15,
+                "perfect_lists": 6
+            },
+            "pyrD2interD_STFD.mod": {
+                "everything_lists": 22,
+                "two_lists": 14,
+                "perfect_lists": 8
+            },
+            "pyrD2interV_STFD.mod": {
+                "everything_lists": 32,
+                "two_lists": 17,
+                "perfect_lists": 10
+            },
+            "pyrD2pyrDDA_STFD.mod": {
+                "everything_lists": 24,
+                "two_lists": 17,
+                "perfect_lists": 8
+            },
+            "pyrD2pyrD_STFD.mod": {
+                "everything_lists": 19,
+                "two_lists": 13,
+                "perfect_lists": 7
+            },
+            "pyrD2pyrVDA_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "pyrD2pyrV_STFD.mod": {
+                "everything_lists": 18,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "pyrV2interD_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 12,
+                "perfect_lists": 12
+            },
+            "pyrV2interV_STFD.mod": {
+                "everything_lists": 20,
+                "two_lists": 13,
+                "perfect_lists": 10
+            },
+            "pyrV2pyrDDA_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 14,
+                "perfect_lists": 9
+            },
+            "pyrV2pyrD_STFD.mod": {
+                "everything_lists": 15,
+                "two_lists": 15,
+                "perfect_lists": 14
+            },
+            "pyrV2pyrVDA_STFD.mod": {
+                "everything_lists": 25,
+                "two_lists": 15,
+                "perfect_lists": 7
+            },
+            "pyrV2pyrV_STFD.mod": {
+                "everything_lists": 23,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "sahp.mod": {
+                "everything_lists": 17,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "sahpNE.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 3
+            },
+            "shock2interD.mod": {
+                "everything_lists": 18,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "shock2interV.mod": {
+                "everything_lists": 18,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "shock2pyrD.mod": {
+                "everything_lists": 16,
+                "two_lists": 14,
+                "perfect_lists": 8
+            },
+            "shock2pyrV.mod": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "tone2interD.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "tone2interDNE.mod": {
+                "everything_lists": 22,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "tone2interV.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "tone2interVNE.mod": {
+                "everything_lists": 32,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "tone2pyrD.mod": {
+                "everything_lists": 17,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "tone2pyrDNE.mod": {
+                "everything_lists": 12,
+                "two_lists": 11,
+                "perfect_lists": 9
+            },
+            "tone2pyrDNE_LAdv.mod": {
+                "everything_lists": 17,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "tone2pyrD_LAdv.mod": {
+                "everything_lists": 16,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "tone2pyrV.mod": {
+                "everything_lists": 17,
+                "two_lists": 13,
+                "perfect_lists": 9
+            },
+            "tone2pyrVNE.mod": {
+                "everything_lists": 21,
+                "two_lists": 13,
+                "perfect_lists": 8
+            },
+            "tone2pyrVNE_LAdd.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "tone2pyrV_LAdd.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 9
+            }
+        },
+        "File with most characters": {
+            "LAcells_template.hoc": {
+                "everything_lists": 50,
+                "two_lists": 22,
+                "perfect_lists": 16
+            }
+        },
+        "File with most comments": {
+            "function_NetStimOR.hoc": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "267047": {
+        "File with most characters": {
+            "2_neurons.ode": {
+                "everything_lists": 45,
+                "two_lists": 25,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "2_neurons.ode": {
+                "everything_lists": 37,
+                "two_lists": 21,
+                "perfect_lists": 9
+            }
+        }
+    },
+    "2014816": {
+        "Mod Files": {
+            "cacumm.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "cagk.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cal2.mod": {
+                "everything_lists": 8,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "can2.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cat.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "h_clk_new.mod": {
+                "everything_lists": 15,
+                "two_lists": 12,
+                "perfect_lists": 10
+            },
+            "kadist.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "kaprox.mod": {
+                "everything_lists": 13,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "kca.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kdb.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "kdbm.mod": {
+                "everything_lists": 14,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kdrbca1.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "kdrca1.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "kmb.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "na3n.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "naxn.mod": {
+                "everything_lists": 22,
+                "two_lists": 12,
+                "perfect_lists": 7
+            }
+        },
+        "File with most characters": {
+            "cell_seed_150218A2.hoc": {
+                "everything_lists": 38,
+                "two_lists": 17,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "cacumm.mod": {
+                "everything_lists": 6,
+                "two_lists": 3,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "155727": {
+        "File with most characters": {
+            "rotation_movie.mp4": {
+                "everything_lists": 25,
+                "two_lists": 9,
+                "perfect_lists": 0
+            }
+        },
+        "File with most comments": {
+            "sim_vs_net.py": {
+                "everything_lists": 25,
+                "two_lists": 13,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "184339": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 4,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "Ih.mod": {
+                "everything_lists": 18,
+                "two_lists": 8,
+                "perfect_lists": 8
+            },
+            "Im.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "Im_v2.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Kd.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "Kv2like.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 9,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "K_P.mod": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "K_T.mod": {
+                "everything_lists": 12,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "Nap.mod": {
+                "everything_lists": 29,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "NaTa.mod": {
+                "everything_lists": 18,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "NaTs.mod": {
+                "everything_lists": 22,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "NaV.mod": {
+                "everything_lists": 18,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "SK.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 22,
+                "two_lists": 17,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "228337": {
+        "File with most characters": {
+            "FigS5B.ode": {
+                "everything_lists": 24,
+                "two_lists": 15,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "Fig3B.ode": {
+                "everything_lists": 27,
+                "two_lists": 14,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "239039": {
+        "Files starting with Fig": {
+            "fig3a.ode": {
+                "everything_lists": 19,
+                "two_lists": 8,
+                "perfect_lists": 3
+            },
+            "fig3b.ode": {
+                "everything_lists": 24,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "fig3c.ode": {
+                "everything_lists": 28,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "fig3d.ode": {
+                "everything_lists": 20,
+                "two_lists": 8,
+                "perfect_lists": 1
+            }
+        },
+        "File with most characters": {
+            "fig3b.ode": {
+                "everything_lists": 27,
+                "two_lists": 9,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "fig3d.ode": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "144403": {
+        "File with most characters": {
+            "tst.msg": {
+                "everything_lists": 18,
+                "two_lists": 3,
+                "perfect_lists": 0
+            }
+        }
+    },
+    "118554": {
+        "File with most characters": {
+            "coh_stoch_mod.m": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        },
+        "File with most comments": {
+            "coh_stoch_mod.m": {
+                "everything_lists": 22,
+                "two_lists": 10,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "167694": {
+        "Files starting with Fig": {
+            "figures2_S5.py": {
+                "everything_lists": 28,
+                "two_lists": 9,
+                "perfect_lists": 3
+            },
+            "figure2.py": {
+                "everything_lists": 15,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "figure4.py": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "figureS5.py": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "double_synapse.mod": {
+                "everything_lists": 12,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "hh3k.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "hh3na.mod": {
+                "everything_lists": 18,
+                "two_lists": 13,
+                "perfect_lists": 10
+            },
+            "nmda_dsyn.mod": {
+                "everything_lists": 21,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "syn_placeholder.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "File with most characters": {
+            "newj4line.hoc": {
+                "everything_lists": 35,
+                "two_lists": 16,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "basal_project.hoc": {
+                "everything_lists": 37,
+                "two_lists": 22,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "245879": {
+        "File with most characters": {
+            "Sollini.m": {
+                "everything_lists": 18,
+                "two_lists": 12,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "Sollini.m": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "266823": {
+        "Mod Files": {
+            "cldif_CA3_NKCC1_HCO3.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "gabaA_Cl_HCO3.mod": {
+                "everything_lists": 17,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "vecevent.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "SynExp2NMDA.mod": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 9
+            },
+            "borgka.mod": {
+                "everything_lists": 18,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "borgkm.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cadiv.mod": {
+                "everything_lists": 12,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "cagk.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "cal2.mod": {
+                "everything_lists": 8,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "can2.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "cat.mod": {
+                "everything_lists": 13,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "kahp.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kdr.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "nahh.mod": {
+                "everything_lists": 19,
+                "two_lists": 9,
+                "perfect_lists": 3
+            },
+            "tonic.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            }
+        },
+        "File with most characters": {
+            "Cell1_Cl_HCO3_tonicGABA.hoc": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "vecevent.mod": {
+                "everything_lists": 17,
+                "two_lists": 4,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "152292": {
+        "File with most characters": {
+            "OneCellTwoOsc.ode.setsdb": {
+                "everything_lists": 16,
+                "two_lists": 5,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "OneCellTwoOsc.ode": {
+                "everything_lists": 8,
+                "two_lists": 8,
+                "perfect_lists": 5
+            }
+        }
+    },
+    "126098": {
+        "File with most characters": {
+            "Loop4_analysis.cps": {
+                "everything_lists": 4,
+                "two_lists": 3,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "258235": {
+        "File with most characters": {
+            "Ina_3HH_Vclamp_SVetal.m": {
+                "everything_lists": 11,
+                "two_lists": 8,
+                "perfect_lists": 4
+            }
+        },
+        "File with most comments": {
+            "Ina_3HH_Vclamp_SVetal.m": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "184325": {
+        "Mod Files": {
+            "CaDynamics.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "Ca_HVA.mod": {
+                "everything_lists": 18,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "Ca_LVA.mod": {
+                "everything_lists": 13,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "Ih.mod": {
+                "everything_lists": 18,
+                "two_lists": 12,
+                "perfect_lists": 8
+            },
+            "Im.mod": {
+                "everything_lists": 16,
+                "two_lists": 12,
+                "perfect_lists": 5
+            },
+            "Im_v2.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "Kd.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "Kv2like.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "Kv3_1.mod": {
+                "everything_lists": 8,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "K_P.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "K_T.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 5
+            },
+            "Nap.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "NaTa.mod": {
+                "everything_lists": 22,
+                "two_lists": 10,
+                "perfect_lists": 4
+            },
+            "NaTs.mod": {
+                "everything_lists": 19,
+                "two_lists": 12,
+                "perfect_lists": 5
+            },
+            "NaV.mod": {
+                "everything_lists": 14,
+                "two_lists": 12,
+                "perfect_lists": 8
+            },
+            "SK.mod": {
+                "everything_lists": 16,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "NaV.mod": {
+                "everything_lists": 18,
+                "two_lists": 13,
+                "perfect_lists": 11
+            }
+        }
+    },
+    "234118": {
+        "File with most characters": {
+            "LGN_SNN_IZKcurrexp_SpiNNaker.py": {
+                "everything_lists": 24,
+                "two_lists": 15,
+                "perfect_lists": 12
+            }
+        },
+        "File with most comments": {
+            "LGN_SNN_IZKcurrexp_SpiNNaker.py": {
+                "everything_lists": 20,
+                "two_lists": 13,
+                "perfect_lists": 9
+            }
+        }
+    },
+    "146949": {
+        "Mod Files": {
+            "infot.mod": {
+                "everything_lists": 15,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "intf6.mod": {
+                "everything_lists": 22,
+                "two_lists": 13,
+                "perfect_lists": 9
+            },
+            "intfsw.mod": {
+                "everything_lists": 10,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "matrix.mod": {
+                "everything_lists": 7,
+                "two_lists": 2,
+                "perfect_lists": 1
+            },
+            "misc.mod": {
+                "everything_lists": 7,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "nstim.mod": {
+                "everything_lists": 11,
+                "two_lists": 6,
+                "perfect_lists": 2
+            },
+            "staley.mod": {
+                "everything_lists": 22,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "stats.mod": {
+                "everything_lists": 5,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "vecst.mod": {
+                "everything_lists": 14,
+                "two_lists": 3,
+                "perfect_lists": 1
+            }
+        },
+        "File with most characters": {
+            "intf6.mod": {
+                "everything_lists": 41,
+                "two_lists": 17,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "misc.mod": {
+                "everything_lists": 8,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "267048": {
+        "File with most characters": {
+            "compare_morph_sims.py": {
+                "everything_lists": 50,
+                "two_lists": 25,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "compare_morph_sims.py": {
+                "everything_lists": 24,
+                "two_lists": 17,
+                "perfect_lists": 11
+            }
+        }
+    },
+    "150031": {
+        "Files starting with Fig": {
+            "fig_spike_maps.py": {
+                "everything_lists": 27,
+                "two_lists": 6,
+                "perfect_lists": 2
+            }
+        },
+        "File with most characters": {
+            "rat_trajectory_lowpass.mat": {
+                "everything_lists": 27,
+                "two_lists": 6,
+                "perfect_lists": 1
+            }
+        },
+        "File with most comments": {
+            "default_params.py": {
+                "everything_lists": 26,
+                "two_lists": 12,
+                "perfect_lists": 8
+            }
+        }
+    },
+    "3807": {
+        "Mosinit Files": {
+            "pcell.hoc": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "volt_space.ses": {
+                "everything_lists": 14,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "Mod Files": {
+            "caacum.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "cachlech.mod": {
+                "everything_lists": 10,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "capump.mod": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 3
+            },
+            "gkca.mod": {
+                "everything_lists": 5,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "naacum.mod": {
+                "everything_lists": 7,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "napump.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "pcell.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 9
+            }
+        },
+        "File with most characters": {
+            "pcell.hoc": {
+                "everything_lists": 25,
+                "two_lists": 12,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "cachlech.mod": {
+                "everything_lists": 9,
+                "two_lists": 5,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "118261": {
+        "File with most characters": {
+            "L_visual.m": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 3
+            }
+        },
+        "File with most comments": {
+            "L_SC.m": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        }
+    },
+    "181962": {
+        "File with most characters": {
+            "sigh_model_code.py": {
+                "everything_lists": 29,
+                "two_lists": 14,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "sigh_model_code.py": {
+                "everything_lists": 19,
+                "two_lists": 16,
+                "perfect_lists": 10
+            }
+        }
+    },
+    "33728": {
+        "Mosinit Files": {
+            "ring.hoc": {
+                "everything_lists": 18,
+                "two_lists": 6,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "ring.hoc": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 5
+            }
+        },
+        "File with most comments": {
+            "mosinit.hoc": {
+                "everything_lists": 7,
+                "two_lists": 2,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "156470": {
+        "File with most characters": {
+            "manifold.m": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 6
+            }
+        },
+        "File with most comments": {
+            "manifold.m": {
+                "everything_lists": 13,
+                "two_lists": 7,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "266864": {
+        "Files starting with Fig": {
+            "fig1.hoc": {
+                "everything_lists": 42,
+                "two_lists": 20,
+                "perfect_lists": 11
+            },
+            "fig2.hoc": {
+                "everything_lists": 38,
+                "two_lists": 21,
+                "perfect_lists": 10
+            },
+            "fig3.hoc": {
+                "everything_lists": 58,
+                "two_lists": 29,
+                "perfect_lists": 16
+            },
+            "fig5.hoc": {
+                "everything_lists": 53,
+                "two_lists": 31,
+                "perfect_lists": 18
+            },
+            "fig6.hoc": {
+                "everything_lists": 45,
+                "two_lists": 31,
+                "perfect_lists": 15
+            },
+            "fig7.hoc": {
+                "everything_lists": 64,
+                "two_lists": 37,
+                "perfect_lists": 19
+            },
+            "fig8.hoc": {
+                "everything_lists": 55,
+                "two_lists": 28,
+                "perfect_lists": 14
+            }
+        },
+        "Mod Files": {
+            "BK_Slow.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "CaP.mod": {
+                "everything_lists": 11,
+                "two_lists": 4,
+                "perfect_lists": 4
+            },
+            "capmax.mod": {
+                "everything_lists": 10,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "CaT.mod": {
+                "everything_lists": 14,
+                "two_lists": 12,
+                "perfect_lists": 7
+            },
+            "cdp_AIS.mod": {
+                "everything_lists": 9,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "cdp_smooth.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 3
+            },
+            "cdp_soma.mod": {
+                "everything_lists": 22,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "cdp_spiny.mod": {
+                "everything_lists": 39,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "distr.mod": {
+                "everything_lists": 5,
+                "two_lists": 3,
+                "perfect_lists": 3
+            },
+            "ih.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 10
+            },
+            "Kv1.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kv3.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "kv4f.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "kv4s.mod": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "mslo.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "nap.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "narsg.mod": {
+                "everything_lists": 28,
+                "two_lists": 12,
+                "perfect_lists": 4
+            },
+            "peak.mod": {
+                "everything_lists": 20,
+                "two_lists": 8,
+                "perfect_lists": 2
+            },
+            "pkjlk.mod": {
+                "everything_lists": 9,
+                "two_lists": 6,
+                "perfect_lists": 6
+            },
+            "SK2.mod": {
+                "everything_lists": 20,
+                "two_lists": 11,
+                "perfect_lists": 5
+            },
+            "syn2.mod": {
+                "everything_lists": 15,
+                "two_lists": 5,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "fig8.hoc": {
+                "everything_lists": 66,
+                "two_lists": 31,
+                "perfect_lists": 17
+            }
+        },
+        "File with most comments": {
+            "fig8.hoc": {
+                "everything_lists": 44,
+                "two_lists": 29,
+                "perfect_lists": 16
+            }
+        }
+    },
+    "183718": {
+        "Mod Files": {
+            "BSKCch.mod": {
+                "everything_lists": 14,
+                "two_lists": 9,
+                "perfect_lists": 4
+            },
+            "innp.mod": {
+                "everything_lists": 10,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "izhcur.mod": {
+                "everything_lists": 12,
+                "two_lists": 10,
+                "perfect_lists": 8
+            }
+        },
+        "File with most characters": {
+            "network.py": {
+                "everything_lists": 23,
+                "two_lists": 13,
+                "perfect_lists": 10
+            }
+        },
+        "File with most comments": {
+            "BSKCch.mod": {
+                "everything_lists": 16,
+                "two_lists": 8,
+                "perfect_lists": 6
+            }
+        }
+    },
+    "266687": {
+        "File with most characters": {
+            "Ausborn_et_al_2018_PLOScompbiol.m": {
+                "everything_lists": 37,
+                "two_lists": 14,
+                "perfect_lists": 8
+            }
+        },
+        "File with most comments": {
+            "Ausborn_et_al_2018_PLOScompbiol.m": {
+                "everything_lists": 35,
+                "two_lists": 17,
+                "perfect_lists": 12
+            }
+        }
+    },
+    "150678": {
+        "File with most characters": {
+            "netview-I.py": {
+                "everything_lists": 2,
+                "two_lists": 2,
+                "perfect_lists": 1
+            }
+        },
+        "File with most comments": {
+            "netview-I.py": {
+                "everything_lists": 3,
+                "two_lists": 1,
+                "perfect_lists": 1
+            }
+        }
+    },
+    "64296": {
+        "Mosinit Files": {
+            "mitral.hoc": {
+                "everything_lists": 40,
+                "two_lists": 15,
+                "perfect_lists": 14
+            }
+        },
+        "Mod Files": {
+            "cadecay.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 2
+            },
+            "Ih.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 11
+            },
+            "INaP.mod": {
+                "everything_lists": 22,
+                "two_lists": 9,
+                "perfect_lists": 5
+            },
+            "kA.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "kca3.mod": {
+                "everything_lists": 12,
+                "two_lists": 6,
+                "perfect_lists": 4
+            },
+            "kfasttab.mod": {
+                "everything_lists": 14,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "kO.mod": {
+                "everything_lists": 11,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "kslowtab.mod": {
+                "everything_lists": 14,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "lcafixed.mod": {
+                "everything_lists": 25,
+                "two_lists": 15,
+                "perfect_lists": 6
+            },
+            "nafast.mod": {
+                "everything_lists": 19,
+                "two_lists": 11,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "mitral.hoc": {
+                "everything_lists": 38,
+                "two_lists": 20,
+                "perfect_lists": 11
+            }
+        },
+        "File with most comments": {
+            "cadecay.mod": {
+                "everything_lists": 6,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "8284": {
+        "Mosinit Files": {
+            "cntrl.ses": {
+                "everything_lists": 15,
+                "two_lists": 3,
+                "perfect_lists": 2
+            },
+            "Ccellsyn.hoc": {
+                "everything_lists": 27,
+                "two_lists": 15,
+                "perfect_lists": 6
+            },
+            "HTcellsyn.hoc": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 8
+            }
+        },
+        "Mod Files": {
+            "hyperde1.mod": {
+                "everything_lists": 19,
+                "two_lists": 14,
+                "perfect_lists": 5
+            },
+            "hyperde2.mod": {
+                "everything_lists": 17,
+                "two_lists": 16,
+                "perfect_lists": 9
+            },
+            "hyperde3.mod": {
+                "everything_lists": 21,
+                "two_lists": 14,
+                "perfect_lists": 11
+            },
+            "hyperso.mod": {
+                "everything_lists": 18,
+                "two_lists": 14,
+                "perfect_lists": 10
+            },
+            "ichan.mod": {
+                "everything_lists": 24,
+                "two_lists": 12,
+                "perfect_lists": 6
+            },
+            "ppsyn.mod": {
+                "everything_lists": 13,
+                "two_lists": 6,
+                "perfect_lists": 3
+            }
+        },
+        "File with most characters": {
+            "HTcellsyn.hoc": {
+                "everything_lists": 21,
+                "two_lists": 11,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "Ccellsyn.hoc": {
+                "everything_lists": 25,
+                "two_lists": 13,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "87582": {
+        "File with most characters": {
+            "one_cluster.m": {
+                "everything_lists": 12,
+                "two_lists": 9,
+                "perfect_lists": 9
+            }
+        },
+        "File with most comments": {
+            "one_cluster.m": {
+                "everything_lists": 16,
+                "two_lists": 10,
+                "perfect_lists": 4
+            }
+        }
+    },
+    "266806": {
+        "Mod Files": {
+            "Cav12.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "Cav13.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "Cav2_3.mod": {
+                "everything_lists": 17,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "Cav3_1.mod": {
+                "everything_lists": 11,
+                "two_lists": 11,
+                "perfect_lists": 8
+            },
+            "cdp5StCmod.mod": {
+                "everything_lists": 20,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "GOLGI_Ampa_mossy_det_vi.mod": {
+                "everything_lists": 17,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "GOLGI_Ampa_pf_aa_det_vi.mod": {
+                "everything_lists": 14,
+                "two_lists": 10,
+                "perfect_lists": 8
+            },
+            "GRC_CA.mod": {
+                "everything_lists": 16,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "GRC_KM.mod": {
+                "everything_lists": 9,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "Hcn1.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "Hcn2.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "Kca11.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 7
+            },
+            "Kca22.mod": {
+                "everything_lists": 11,
+                "two_lists": 9,
+                "perfect_lists": 6
+            },
+            "Kca31.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "Kv11.mod": {
+                "everything_lists": 10,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "Kv34.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 6
+            },
+            "Kv43.mod": {
+                "everything_lists": 12,
+                "two_lists": 8,
+                "perfect_lists": 7
+            },
+            "Leak.mod": {
+                "everything_lists": 6,
+                "two_lists": 4,
+                "perfect_lists": 3
+            },
+            "Nav16.mod": {
+                "everything_lists": 10,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "PC_NMDA_NR2B.mod": {
+                "everything_lists": 13,
+                "two_lists": 8,
+                "perfect_lists": 5
+            }
+        },
+        "File with most characters": {
+            "Golgi2020_morpho_1.py": {
+                "everything_lists": 48,
+                "two_lists": 29,
+                "perfect_lists": 20
+            }
+        },
+        "File with most comments": {
+            "Cav3_1.mod": {
+                "everything_lists": 13,
+                "two_lists": 9,
+                "perfect_lists": 7
+            }
+        }
+    },
+    "256628": {
+        "File with most characters": {
+            "AutoSim_istim085_distim5_ioff0_dgA0.mat": {
+                "everything_lists": 29,
+                "two_lists": 10,
+                "perfect_lists": 7
+            }
+        },
+        "File with most comments": {
+            "fit_bivariate_sigma.m": {
+                "everything_lists": 6,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        }
+    },
+    "267307": {
+        "Mod Files": {
+            "ampa_kin.mod": {
+                "everything_lists": 11,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "cacumm.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 2
+            },
+            "cagk.mod": {
+                "everything_lists": 6,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cal2.mod": {
+                "everything_lists": 7,
+                "two_lists": 5,
+                "perfect_lists": 5
+            },
+            "can2.mod": {
+                "everything_lists": 13,
+                "two_lists": 5,
+                "perfect_lists": 4
+            },
+            "cat.mod": {
+                "everything_lists": 15,
+                "two_lists": 9,
+                "perfect_lists": 8
+            },
+            "h.mod": {
+                "everything_lists": 14,
+                "two_lists": 11,
+                "perfect_lists": 6
+            },
+            "kadist.mod": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 4
+            },
+            "kaprox.mod": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 6
+            },
+            "kca.mod": {
+                "everything_lists": 20,
+                "two_lists": 10,
+                "perfect_lists": 5
+            },
+            "kdrca1.mod": {
+                "everything_lists": 8,
+                "two_lists": 7,
+                "perfect_lists": 6
+            },
+            "kmb.mod": {
+                "everything_lists": 10,
+                "two_lists": 7,
+                "perfect_lists": 7
+            },
+            "nap.mod": {
+                "everything_lists": 18,
+                "two_lists": 10,
+                "perfect_lists": 7
+            },
+            "naxn.mod": {
+                "everything_lists": 23,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "nmdaSyn.mod": {
+                "everything_lists": 7,
+                "two_lists": 6,
+                "perfect_lists": 5
+            },
+            "nmda_kin2.mod": {
+                "everything_lists": 15,
+                "two_lists": 8,
+                "perfect_lists": 5
+            },
+            "vecevent.mod": {
+                "everything_lists": 10,
+                "two_lists": 4,
+                "perfect_lists": 2
+            }
+        },
+        "File with most characters": {
+            "measure_spine_AR.py": {
+                "everything_lists": 21,
+                "two_lists": 13,
+                "perfect_lists": 11
+            }
+        },
+        "File with most comments": {
+            "synaptic_cooperativity.py": {
+                "everything_lists": 19,
+                "two_lists": 12,
+                "perfect_lists": 9
+            }
+        }
+    },
+    "190304": {
+        "Files starting with Fig": {
+            "figures_formatting.py": {
+                "everything_lists": 7,
+                "two_lists": 2,
+                "perfect_lists": 2
+            },
+            "fig_12.py": {
+                "everything_lists": 8,
+                "two_lists": 5,
+                "perfect_lists": 4
+            }
+        },
+        "File with most characters": {
+            "get_initial_specie_information.py": {
+                "everything_lists": 10,
+                "two_lists": 3,
+                "perfect_lists": 2
+            }
+        },
+        "File with most comments": {
+            "functions.py": {
+                "everything_lists": 18,
+                "two_lists": 5,
+                "perfect_lists": 5
+            }
+        }
+    }
+}
